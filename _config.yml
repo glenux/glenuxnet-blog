@@ -1,0 +1,28 @@
+title: blog.glenux.net
+description: Chroniques d'un gnou libre
+
+url: http://blog.glenux.net
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: glenux
+   twitter: glenux
+   facebook: glenux
+   email: glenux@glenux.net
+
+google_analytics: ""
+
