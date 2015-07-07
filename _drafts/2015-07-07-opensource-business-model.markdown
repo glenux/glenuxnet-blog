@@ -18,3 +18,8 @@ C'est à dire que le développement du projet est vécue comme un exutoire tempo
 Cet abandon des projets peut être expliqué l'absence de business-modèle à leur création, ou -- autrement formulé -- l'absence d'inscription de l'auteur dans une réalité physique, économique, politique, etc.
 
 FIXME: compter mon nombre de projets "draft", et nombre de projets "plein", et nombre de projets "terminés".
+
+
+## Références
+
+[Why developers never finish their projects](https://medium.com/things-developers-care-about/why-developers-never-finish-their-projects-bf39d3424114)
