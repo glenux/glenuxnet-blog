@@ -10,4 +10,3 @@ tags:   []
 
 * avez vous organisé un plan de contingence pour votre infrastructure ?
 * question des astreintes ?
-* 
