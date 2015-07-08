@@ -8,6 +8,6 @@ tags:   []
 
 À l’approche des grandes vacances, avez-vous déterminé les périodes d’hébergement de chacun ?
 
-=> avez vous organisé un plan de contingence pour votre infrastructure ?
-
-question des astreintes ?
+* avez vous organisé un plan de contingence pour votre infrastructure ?
+* question des astreintes ?
+* 
