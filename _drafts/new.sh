@@ -3,22 +3,18 @@
 stamp=$(date --date='9:00 next day' +'%Y-%m-%d')
 topic=${*:-}
 
-# detect non-console call
-if [ ! "$_" = "/usr/bin/env" ]; then
-	topic=$(zenity --entry \
-		--entry-text="" \
-		--text="Titre du nouvel article ?" 2> /dev/null)
-fi
-
 if [ -z "$topic" ]; then
 	echo "ERROR: no topic defined !" >&2
 	exit 1
 fi
 
-topic=$(echo "$topic" |sed \
+topic=$(echo "$topic" \
+	| iconv -f utf8 -t ascii//TRANSLIT \
+	| sed \
 	-e 's/[^a-zA-Z0-9]/-/g' \
 	-e 's/--*/-/g' \
-	-e 's/-$//g'
+	-e 's/-$//g' \
+	-e 's/\<\(.*\)\>/\L\1/g'
 )
 
 NAME="${stamp}-${topic}"
