@@ -1,19 +1,22 @@
+Topics
+======
+
+Examples
+--------
+
 3 Ways to Increase Site Performance & Conversions
 5 ways Vivendi makes Dailymotion suddenly matter
-	
 8 trucs pour définir un budget marketing efficace
-101 Fabulous Blog Topic Ideas
 
-blogging tips in letterpress typeI started off the year all gung-ho and self-righteous that I had a solid editorial plan and a never-ending list of blog post ideas I could ride through winter and beyond. But like many bloggers, I hit a wall. Ooops. My topics were boring. The content I’d planned lacked sparkle. I was tired, stuck, burned-out. I needed an infusion of creative ideas that would get my blogatude back on track. So I wrote this list of possibilities for myself, and I’m sharing them with you.
+Best of the web
+----------------
 
-I also reminded myself that anything a blogger thinks, feels, does, reads, observes, plans, learns, and participates in has the potential to be turned into a post. All we need to do is understand the interests of our target readers and spin the article accordingly, then base the theme on one or more of the four basic end-results of good content: To educate, entertain, invoke strong emotion, and/or inspire the reader.
-
-Here are six basic types of posts you can write, plus 101 blog post ideas and prompts. I threw in a few links to other resources in case you want more.
-
-“Best of the web” posts
-Best of the web posts are resources-with-links list posts (also called mash-ups) where the blogger essentially curates other blogger’s great content they’ve vetted. Important! Do not re-post the entire original article without permission – this is copyright infringement. Instead, use the first few sentences – or just the title plus the link – along with your own commentary re: why others should take the time to read it. People love these, and they can be quick, effective posts that allow you to think a little or a lot, depending on your time crunch.
+* Resources-with-links list posts (aka mash-ups) 
+* First few sentences – or just the title plus the link
+* Your own commentary re: why others should take the time to read it
 
 Ideas for “Best of” posts:
+
 1. The best blog posts you’ve read the past week or month – with links.
 2. Writers (or authors, teachers, industry leaders, philanthropists) who inspire you.
 3. Your favorite blogs. Example: Belinda Pollard’s 4 useful blogs to get you started in self-publishing.
@@ -26,6 +29,8 @@ Ideas for “Best of” posts:
 10. A mash-up of all guest posts, interviews, etc. where you’ve been featured on another blog or website.
 
 Essays – personal
+-----------------
+
 Everything you think, remember, feel, or do is fair game – as long as your treatment of it entertains, inspires, or generates a positive emotion in your reader. Go ahead and tell the story about how you gave yourself a black eye with your knee while jumping on the bed (yeah, that was me) … BUT, if you want people to return to read again, avoid general downbeatery and do not rant, whine, or complain. Spare us; we have enough in our own lives. Be introspective, make a point, and while you’re doing it, make us laugh, think, feel, or want to get up and dance. Now that’s a great blog post.
 
 Ideas for personal essays:
@@ -59,7 +64,8 @@ Ideas for general interest posts:
 33. Infographics are hot on nearly every social media platform and I hear they get a higher percentage of shares than a regular post (especially on Pinterest, duh.) And okay, I have tried to use one of the free online tools designed to create an infographic, but my efforts bombed. Couldn’t figure it out. When I do, I’ll publish a post.
 34. More ideas here: 52 Types of Blog Posts that Are Proven to Work.
 
-How-to posts
+How-to
+------
 Tips, tricks, cheat sheets, and tutorials rock. Your readers will be grateful if you can solve a problem for them and/or save them time. Educate others about what you’ve learned, and what you’ve tried that worked. Keep in mind you can also write about what NOT to do. In fact, if you use a catchy “what not to do” title, your how-to might get more reads. Add a list and get double points.
 
 Ideas for how-to posts:
@@ -75,6 +81,8 @@ Ideas for how-to posts:
 44. For even more ideas, check out Mashable’s how-to category.
 
 Interviews and profiles
+-----------------------
+
 This article type is widely used and can be quite effective. Find a way to make your interviews fresh and compelling. How, where, and why an author writes may not grab readers’ attention anymore, unless it’s a famous someone (hey, good idea). Then we’ll be enthralled, myself included.
 
 Ideas for interviews:
@@ -91,6 +99,8 @@ Ideas for interviews:
 55. Interview partners and team members.
 
 Lists
+-----
+
 Readers love lists and checklist posts. Bulleted lists, numbered lists, lists, lists, lists. List posts are cool because they tend to be evergreen (and will be even more evergreen if they don’t include links). Here’s one I wrote in 2011 that still has legs: Ways to stay creative.
 
 Ideas for list posts:
@@ -110,6 +120,8 @@ Ideas for list posts:
 69. This list + photo post is fabulous. Use your own topic and emulate it! 41 Camping Hacks That Are Borderline Genius.
 
 Opinions, rebuttals, trends, debates, and predictions
+-----------------------------------------------
+
 Agree, disagree, question, challenge, predict, share your point of view. This type of post can be your take on stories in the news, popular opinion, or someone else’s blog post. Start a commentary or debate. Controversy sells, but be prepared for any potential criticism that may accompany it. You can also analyze current industry trends and try to explain what’s happening. Industry, genre, and/or business trends that are interesting to your target readers will get attention. Include surveys, polls, and statistics that you’ve uncovered, or even include surveys and polls in your article for your readers’ response.
 
 Ideas for opinion and predictions pieces:
@@ -122,9 +134,12 @@ Ideas for opinion and predictions pieces:
 76. Interview several different peeps and post their opinions on a topic. Print Vs. eBook – What’s Your Opinion?
 
 Recap posts
+------------
+
 Any and every event you observe, attend, facilitate, or participate in is fair game. If you attend a conference, class, webinar, seminar, presentation, or training, take notes and provide your readers with a recap of what you learned. Spread the net wider and recap your acting class, your trip to Cleveland, your child’s music recital, your husband’s tryout for the senior softball team. Of course, recaps that venture beyond issues your readership has a direct interest in will probably fall under the heading of personal essays. When they do, spin them to be entertaining or inspirational.
 
 Ideas for recap articles:
+
 77. Recap a conference or an specific conference session. Writing Conferences: A Recap Of PNWA 2013 
 78. Recap a free webinar you’ve attended.
 79. Recap a class or training.
@@ -137,6 +152,8 @@ Ideas for recap articles:
 86. Recap your personal research on a specific subject.
 
 Reviews
+-------
+
 Provide your commentary/opinion about anything you’ve purchased and used, observed, read, or participated in. Compare one or two and cite differences, benefits, delights, and disappointments.
 
 Ideas for reviews:
@@ -149,7 +166,10 @@ Ideas for reviews:
 93. Include a review in any recap you do of classes, trainings, conferences.
 94. Review any how-to/tutorial post – and improve on it.
 
+
 Media-related posts
+-------------------
+
 Videos, podcasts, and recordings of any type. Another category I have yet to investigate. FYI, any of the blog post types above can be turned into a video or podcast.
 
 Ideas for media posts:
@@ -164,7 +184,8 @@ Ideas for media posts:
 
 Reminder: Almost every post should include a question at the end that opens a dialogue and encourages readers to comment, plus a call to action (CTA) to subscribe to your blog. Don’t miss Author Victoria Grefer’s guest post about using CTAs.
 
-
+Other examples
+---------------
 
 1. How to guide
 2. 9 ways
@@ -188,36 +209,6 @@ Reminder: Almost every post should include a question at the end that opens a di
 20. The secret to 
 
 http://www.molly-greene.com/101-blog-topic-ideas/
-The more you blog, the harder it can be to come up with fresh ideas to write about. Two of the most important parts of a blog are compelling content and frequent updates. Take a look at the following blog post ideas to spark your creative juices when you can't think of what to write about. Just remember to try to apply each of these ideas appropriately to your blog topic.
-1.  Lists
-People love lists, and just about any kind of list is bound to attract traffic. Top 10 lists, 5 things not to do, 3 reasons I love something, etc. Start with a number then take it from there.
-2.  How-to
-People love to find easy-to-follow instructions to help them accomplish a task. Whether you want to teach your readers how to throw the perfect curve ball or how to avoid getting bitten by a mosquito, the choice is yours.
-3.  Reviews
-You can write a review of just about anything on your blog. Take a look at the following suggestions:
-
-Products
-Websites
-Books
-Movies
-Music
-Restaurants
-Hotels
-The possibilities are nearly endless. Just think of something you've tried and write about your experience and thoughts.
-4.  Photos
-Post a photo (or photos) related to your blog topic.
-5.  Link Roundup
-Write a post that includes a list of links to other blog posts that published great posts or to websites you like.
-6.  Current Events
-What's going on in the world? Write a post about an interesting bit of news.
-7.  Tips
-Write a post to share tips to help your readers accomplish something in an easier, faster or cheaper way.
-8.  Recommendations
-Share recommendations for your favorite books, websites, movies or other "favorites" related to your blog topic.
-9.  Interviews
-Interview a prominent figure or expert in your blog topic then publish a blog post about it.
-10.  Polls
-Register for an account with a site like PollDaddy.com then publish a poll related to your blog topic in one of your blog posts.
 
 
 
@@ -266,6 +257,7 @@ here is a tip When you find a site like eHow or Wikihow or any of those kinds of
  
 
 What Questions Do Your Friends Ask You About?
+----------------------------------------------
 
 questions your friends ask youOne way to get ideas for blog topics is to think about what kinds of specialized questions your friends, coworkers,  customers or colleagues ask you about.   Chances are there is an opportunity awaiting you that has something to do with the industry you work in.
 
@@ -280,6 +272,7 @@ The main thing is to choose something that you really are knowledgeable about or
  
 
 What Topics Are Good If You Intend To Monetize With Google Adsense
+----------------------------------------------
 
 A lot of people who decide to try blogging for money want to use the Google Adsense system to monetize their blog.  This is a great idea so long as you are blogging about topics that are centered around a product or service that there are plenty of advertisers for.
 
@@ -290,6 +283,7 @@ You might be able to find an even more specific niche inside there that you coul
  
 
 Which Niches Pay The Most With Adsense
+--------------------------------------
 
 some niches pay great and some don'tThe higher paying ads tend to come from the advertisers that stand to make the most profit from a new customer.   Wherever there is big money to be made, there are usually good paying advertisers.  So, things like elective surgeries, legal matters, insurance, mortgages, loans, investing or getting a professional education will usually pay well.
 
@@ -308,6 +302,7 @@ Plus this niche is ultra-competitive with lots of heavy hitters in the industry.
  
 
 What Kind Of Topics Work Best For Authority Sites
+-------------------------------------------------
 
 The best topic is the one you are most knowledgeable about with the least amount of competition.  Think about what kinds of skills you have that other people lack.  Think about what kinds of products you know a lot about that other people don’t know much about.  Look for opportunities there.
 
@@ -318,6 +313,7 @@ Once you have some good ideas, then start doing a little research.  Just go to G
  
 
 What Do You Do When You Just Can’t Seem To Come Up With A Topic No Matter How Hard You Try?
+-------------------------------------------------
 
 Are you stuck?Let me help you.  If you are totally stuck trying to figure out what topic you should build your authority site around, then I have some more free help for you.   I came up with a series of questions to ask someone who is stuck trying to figure out what topic to build an authority blog around.  Those questions are included in my Authority Blog Starter Kit.  You can download it for free, no strings attached.
 
