@@ -6,7 +6,13 @@ categories: [infrastructure, availability]
 tags: [vacation, infrastructure]
 ---
 
-&Agrave; l&rsquo;approche des grandes vacances, avez-vous d&eacute;termin&eacute; les p&eacute;riodes d&rsquo;h&eacute;bergement de chacun ?
+Enfin l&#39;&eacute;t&eacute;, les vacances... le  tant attendu pour s&#39;&eacute;chaper &agrave; la plage, la montagne ou ailleurs.
 
-*   avez vous organis&eacute; un plan de contingence pour votre infrastructure ?
+L&rsquo;approche des grandes vacances est le moment id&eacute;al pour organiser le plan<span style="font-size: 0.95em; letter-spacing: 0.01rem; line-height: 1.75em;"> contingence pour votre infrastructure.</span>
+
+ 
+
 *   question des astreintes ?
+*   quelles garanties de disponibilit&eacute; ?
+
+ 
