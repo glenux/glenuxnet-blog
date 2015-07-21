@@ -1,4 +1,9 @@
-# Open Infrastructure
+---
+published: false
+title: Open Infrastructure
+layout: post
+tags: []
+---
 
 ## My New Ops Job
 
