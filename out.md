@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Out
-permalink: /contact/
+permalink: /out/
 ---
 
 Blip
