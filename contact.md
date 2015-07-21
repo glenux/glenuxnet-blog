@@ -2,6 +2,7 @@
 layout: default
 title: Contact Long Haul
 permalink: /contact/
+published: false
 ---
 
 <div id="contact">
