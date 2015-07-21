@@ -29,5 +29,6 @@ tags:   []
 ---
 MARK
 touch "$NAME/$NAME.md"
+cp .tpl.vym "$NAME/$NAME.vym"
 echo "$NAME/$NAME.md"
 
