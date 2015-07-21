@@ -1,6 +1,6 @@
 ---
 published: false
-title: Rediscovering Ocaml
+title: Re-discovering Ocaml
 layout: post
 ---
 xx
