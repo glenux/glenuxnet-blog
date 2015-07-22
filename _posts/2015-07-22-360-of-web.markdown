@@ -1,10 +1,10 @@
 ---
 published: false
-title: 360° of Web
+title: 360° of Web – August
 layout: post
 tags: [web]
 ---
 Current selection  :
 
 * [phantomas](https://github.com/gmetais/phantomas) – web performance metrics collector.
-
+* [Web performance and front-end quality testing tool](https://github.com/gmetais/YellowLabTools) 
