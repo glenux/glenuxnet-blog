@@ -4,7 +4,6 @@ title: 360° of Web – August
 layout: post
 tags: [web]
 ---
-xx
 
 ## Web performance
 
