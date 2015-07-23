@@ -5,6 +5,8 @@ layout: post
 tags: [overview, technology, business]
 ---
 
+<!-- FIXME: tags, code, tool, opinion, tutorial, news , jobs (max 2 tags par lien) -->
+
 # 360° of Tech – August
 
 Data
