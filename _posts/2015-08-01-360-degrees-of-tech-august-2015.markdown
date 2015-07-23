@@ -5,7 +5,7 @@ layout: post
 tags: [overview, technology, business]
 ---
 
-<!-- FIXME: tags, code, tool, opinion, tutorial, news , jobs (max 2 tags par lien) -->
+<!-- FIXME: code, tool, opinion, tutorial, news , jobs (max 2 tags par lien) -->
 
 # 360° of Tech – August
 
@@ -23,6 +23,10 @@ Web
 
 * [Nate Berkopec : Secrets to Speedy Ruby Apps On Heroku](http://www.nateberkopec.com/2015/07/22/secrets-to-speedy-ruby-apps-on-heroku.html) (ruby web application performance optimization)
   > Ruby apps in the memory-restrictive and randomly-routed Heroku environment don't have to be slow. Achieve <100ms server response times with the tips laid out below. 
+
+* [HigParker Selberth : Performance Caching With Readthis](http://sorentwo.com/2015/07/20/high-performance-caching-with-readthis.html?utm_source=rubyweekly&utm_medium=email) (redis, performance, caching, tool)
+  > Redis is blazingly fast, amazingly versatile and its use is virtually ubiquitous among Rails apps. Typically it's being leveraged for background job processing, pub/sub, request rate limiting, and all manner of other ad-hoc tasks that require persistence and speed. Unfortunately, its adoption as a cache has lagged in the shadow of Memcached, the longstanding in-memory caching alternative. That may be due to lingering views on what Redis's strengths are, but I believe it comes down to a lack of great libraries. That's precisely what led to writing Readthis, an extremely fast caching library for Ruby and backed by Redis.
+
 
 
 Other
