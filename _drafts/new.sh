@@ -17,18 +17,21 @@ topic=$(echo "$topic" \
 	-e 's/\<\(.*\)\>/\L\1/g'
 )
 
-NAME="${stamp}-${topic}"
-mkdir -p "$NAME"
-cat > "$NAME/$NAME.md" <<MARK
+
+#NAME="${stamp}-${topic}"
+NAME="${topic}"
+
+cat > "$NAME.md" <<MARK
 ---
 layout: post
 title:  $topic
 date:   $stamp 09:00:15
 categories: []
 tags:   []
+published: false
 ---
 MARK
-touch "$NAME/$NAME.md"
-cp .tpl.vym "$NAME/$NAME.vym"
-echo "$NAME/$NAME.md"
+touch "$NAME.md"
+cp .tpl.vym "$NAME.vym"
+echo "$NAME.md"
 
