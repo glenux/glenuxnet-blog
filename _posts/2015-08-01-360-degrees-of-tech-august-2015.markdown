@@ -35,4 +35,6 @@ Start-ups
 Other
 -----
 
+* [How Drones Can Find and Hack Internet-of-Things Devices From the Sky](http://thehackernews.com/2015/08/hacking-internet-of-things-drone.html) (drone, internet-of-things, security, zigbee, map)
+
 
