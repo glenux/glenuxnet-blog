@@ -9,11 +9,14 @@ tags: [overview, technology, business]
 
 # 360° of Tech – August
 
-Data
-----
+Startups, Career and Process
+----------------------------
 
-Web
----
+* [Rand Hindi, l’homme qui veut faire disparaître les technologies](http://www.lemonde.fr/festival/article/2015/07/22/rand-hindi-l-homme-qui-veut-faire-disparaitre-les-technologies_4693695_4415198.html) (pervasive, technology, startup, artificial-intelligence, opinion)
+
+
+Design and Web Development
+--------------------------
 
 **Performance**
 
@@ -27,13 +30,20 @@ Web
 * [HigParker Selberth : Performance Caching With Readthis](http://sorentwo.com/2015/07/20/high-performance-caching-with-readthis.html?utm_source=rubyweekly&utm_medium=email) (redis, performance, caching, tool)
   > Redis is blazingly fast, amazingly versatile and its use is virtually ubiquitous among Rails apps. Typically it's being leveraged for background job processing, pub/sub, request rate limiting, and all manner of other ad-hoc tasks that require persistence and speed. Unfortunately, its adoption as a cache has lagged in the shadow of Memcached, the longstanding in-memory caching alternative. That may be due to lingering views on what Redis's strengths are, but I believe it comes down to a lack of great libraries. That's precisely what led to writing Readthis, an extremely fast caching library for Ruby and backed by Redis.
 
-Start-ups
----------
+AI, Machine Learning, Research and Advanced Algorithms
+------------------------------------------------------
 
-* [Rand Hindi, l’homme qui veut faire disparaître les technologies](http://www.lemonde.fr/festival/article/2015/07/22/rand-hindi-l-homme-qui-veut-faire-disparaitre-les-technologies_4693695_4415198.html) (pervasive, technology, startup, artificial-intelligence, opinion)
+Big Data, Visualization, SQL and NoSQL
+--------------------------------------
 
-Other
------
+Infrastructure, Operations and DevOps
+-------------------------------------
+
+Data & security
+---------------
+
+Other links
+-----------
 
 * [How Drones Can Find and Hack Internet-of-Things Devices From the Sky](http://thehackernews.com/2015/08/hacking-internet-of-things-drone.html) (drone, internet-of-things, security, zigbee, map)
 * [$32 Worth of Electronics Can Open Almost Any Keyless Car Door or Garage](http://gizmodo.com/32-worth-of-electronics-can-open-almost-any-keyless-ca-1723072763)
