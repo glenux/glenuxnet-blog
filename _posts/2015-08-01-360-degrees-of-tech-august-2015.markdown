@@ -42,6 +42,8 @@ Infrastructure, Operations and DevOps
 Data & security
 ---------------
 
+* [Implementing Secure User Authentication in PHP Applications with Long-Term Persistence](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence)
+
 Other links
 -----------
 
