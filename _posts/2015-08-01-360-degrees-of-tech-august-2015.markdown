@@ -18,6 +18,9 @@ Startups, Career and Process
 Design and Web Development
 --------------------------
 
+* [Javascript Debugging Tips and tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+
+
 **Performance**
 
 * [unusedjs](https://github.com/gmetais/unusedjs) – A simple proxy to highligh unused blocks of JS on a web page 
