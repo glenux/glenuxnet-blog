@@ -49,6 +49,7 @@ Infrastructure, Operations and DevOps
 Data & security
 ---------------
 
+* [ROM 0.9.0 Released](http://rom-rb.org/blog/2015/08/19/rom-0-9-0-released/)
 * [Implementing Secure User Authentication in PHP Applications with Long-Term Persistence](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence)
 
 Other links
