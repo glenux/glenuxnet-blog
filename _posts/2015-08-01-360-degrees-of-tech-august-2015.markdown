@@ -18,6 +18,9 @@ Startups, Career and Process
 Design and Web Development
 --------------------------
 
+* [On the nature of timers](http://blog.getify.com/on-the-nature-of-timers/)
+* [The Evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/)
+* [Introducing Four: It’s WebGL, but Easier](http://www.sitepoint.com/introducing-four-webgl-easier/)
 * [Javascript Debugging Tips and tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/
 
