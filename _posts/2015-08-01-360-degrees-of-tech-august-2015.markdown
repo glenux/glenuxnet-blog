@@ -45,6 +45,7 @@ Infrastructure, Operations and DevOps
 -------------------------------------
 
 * [cadvisor](https://github.com/google/cadvisor) – Analyzes resource usage and performance characteristics of running containers ([SourceCode](https://github.com/google/cadvisor)) `
+* [Running three hours of Ruby tests in under three minutes](https://stripe.com/blog/distributed-ruby-testing?utm_source=rubyweekly&utm_medium=email)
 
 Data & security
 ---------------
