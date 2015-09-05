@@ -15,7 +15,7 @@ Startups, Career and Process
 * [Rand Hindi, l’homme qui veut faire disparaître les technologies](http://www.lemonde.fr/festival/article/2015/07/22/rand-hindi-l-homme-qui-veut-faire-disparaitre-les-technologies_4693695_4415198.html) | pervasive technology startup artificial-intelligence opinion
 * [What does a CTO do?](http://code.dblock.org/2015/05/23/what-does-a-cto-do.html) |
 * [Turning Hindsight into Foresight](http://code.dblock.org/2015/09/01/turning-hindsight-into-foresight.html) |
-
+* [How to run a team of people who never see each other](http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
 
 Design and Web Development
 --------------------------
@@ -30,8 +30,8 @@ Design and Web Development
 
 ### Other topics
 
-* [On the nature of timers](http://blog.getify.com/on-the-nature-of-timers/) |
-* [The Evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/) |
+* [What's new in Bootstrap 4](https://scotch.io/bar-talk/whats-new-in-bootstrap-4) |
+* [Introduction to Roda](http://twin.github.io/introduction-to-roda/) | ruby web framework routing tree
 * [Introducing Four: It’s WebGL, but Easier](http://www.sitepoint.com/introducing-four-webgl-easier/) |
 * [Javascript Debugging Tips and tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/) |
 http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/
@@ -39,6 +39,10 @@ http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/
 
 AI, Machine Learning, Research and Advanced Algorithms
 ------------------------------------------------------
+
+* [On the nature of timers](http://blog.getify.com/on-the-nature-of-timers/) |
+* [The Evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/) |
+* [I, Object! : a short guide on how ruby typing works ](http://jakeyesbeck.com/2015/08/23/ruby-objects/) | ruby typing duck-typing in-depth guide
 
 
 Big Data, Visualization, SQL and NoSQL
@@ -54,7 +58,7 @@ Infrastructure, Operations and DevOps
 * [cadvisor : Analyzes resource usage and performance characteristics of running containers](https://github.com/google/cadvisor) |
 * [Running three hours of Ruby tests in under three minutes](https://stripe.com/blog/distributed-ruby-testing) |
 * [Generating Iptables Rules With TrafficCop](https://engineering.opendns.com/2015/08/31/generating-iptables-rules-with-trafficcop/) |
-
+* [Lita : A robot companion for your company's chat room](https://www.lita.io/) | ruby opensource bot task automation
 
 Data & security
 ---------------
