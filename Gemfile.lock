@@ -57,8 +57,6 @@ GEM
       redcarpet (~> 3.1)
       safe_yaml (~> 1.0)
       toml (~> 0.1.0)
-    jekyll-archives (2.0.0)
-      jekyll (~> 2.4)
     jekyll-assets (0.14.0)
       fastimage (~> 1.6)
       jekyll (~> 2.0)
@@ -142,7 +140,6 @@ PLATFORMS
 DEPENDENCIES
   compass
   jekyll
-  jekyll-archives
   jekyll-assets
   jekyll-feed
   jekyll-mentions

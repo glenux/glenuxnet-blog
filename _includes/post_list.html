@@ -1,7 +1,7 @@
 {% if paginator.posts.size > 0  %}
 {% assign posts = paginator.posts %}
 {% else %}
-{% assign posts = page.posts %}
+{% assign posts = archive_posts %}
 {% endif %}
 
   <ul class="posts noList">
