@@ -1,6 +1,11 @@
 title: blog.glenux.net
 description: Chroniques d'un gnou libre
 
+gems:
+ - jekyll-mentions
+ - jekyll-sitemap
+ - jekyll-feed
+
 url: http://blog.glenux.net
 baseurl: ""
 paginate_path: "blog/page:num/"
@@ -13,10 +18,10 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+# - title: About
+#   url: /about
+# - title: Contact
+#   url: /contact
 
 social:
    github: glenux
