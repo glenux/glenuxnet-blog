@@ -4,7 +4,7 @@ title: 360° of Tech - September 2015
 layout: post
 tags: [overview, technology, business]
 categories:
-  - 360° of tech
+  - 360 degrees of tech
 ---
 
 I'm happy to annouce the first issue of __360° of Tech__, a monthly round-up of the most inspiring articles & links i've read in the latest thirty days.

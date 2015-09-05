@@ -11,7 +11,7 @@
 
                  {% for category in site.categories %}
                  <li class= "categories-title">
-                 	<a name="{{ category | first }}">{{ category | first }}</a>
+                 	 <a href="{{ category|first|slugify|prepend: '/category/' |prepend: site.baseurl }}">{{ category | first }}</a>
                  </li>   
                  {% endfor %}
                  <!-- <li> <a href="https://github.com/glenux" target="_blank">GitHub</a></li>-->
