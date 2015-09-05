@@ -27,6 +27,7 @@ Design and Web Development
 * [Web performance and front-end quality testing tool](https://github.com/gmetais/YellowLabTools) |
 * [Nate Berkopec : Secrets to Speedy Ruby Apps On Heroku](http://www.nateberkopec.com/2015/07/22/secrets-to-speedy-ruby-apps-on-heroku.html) | ruby web application performance optimization
 * [HigParker Selberth : Performance Caching With Readthis](http://sorentwo.com/2015/07/20/high-performance-caching-with-readthis.html?utm_source=rubyweekly&utm_medium=email) | redis performance caching tool
+* [How To Install and Use Ruby-Prof Gem](http://railscarma.com/blog/technical-articles/how-to-install-and-use-ruby-prof-gem/) | ruby profiling performance audit
 
 ### Other topics
 
@@ -37,8 +38,6 @@ Design and Web Development
 http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/
 * [Building a Sleek, Animated Form with CSS](http://product.hubspot.com/blog/how-to-build-a-sleek-animated-input-form-with-css) | design form css tutorial
 
-System, Network and advanced programming
-----------------------------------------
 
 http://fullscreen.github.io/squid/
 
