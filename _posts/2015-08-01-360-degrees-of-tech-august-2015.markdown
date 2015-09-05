@@ -17,6 +17,7 @@ Startups, Career and Process
 * [What does a CTO do?](http://code.dblock.org/2015/05/23/what-does-a-cto-do.html) |
 * [Turning Hindsight into Foresight](http://code.dblock.org/2015/09/01/turning-hindsight-into-foresight.html) |
 * [How to run a team of people who never see each other](http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
+* [Interactive: The Top Programming Languages 2015](http://spectrum.ieee.org/static/interactive-the-top-programming-languages-2015#index/2015/1/1/1/1/1/50/1/50/1/50/1/30/1/30/1/30/1/20/1/20/1/5/1/5/1/20/1/100/)
 
 Design and Web Development
 --------------------------
@@ -58,6 +59,7 @@ Big Data, Visualization, SQL and NoSQL
 * [Introduction to Apache Spark](http://www.codeproject.com/Articles/1023037/Introduction-to-Apache-Spark)
 * [ROM 0.9.0 Released](http://rom-rb.org/blog/2015/08/19/rom-0-9-0-released/) | orm ruby datamapper rewrite
 * [S3QL is a file system that stores all its data online using storage services](https://bitbucket.org/nikratio/s3ql)
+* [R: Why it’s the next programming language you should learn](http://blog.pluralsight.com/r-programming-language)
 
 Infrastructure, Operations and DevOps
 -------------------------------------
@@ -75,7 +77,8 @@ Data security
 Other links
 -----------
 
+* [Nextbit's Robin looks to merge phone and cloud like never before](http://www.androidcentral.com/meet-nextbit-robin) | phone cloud filesystem integration design
 * [How Drones Can Find and Hack Internet-of-Things Devices From the Sky](http://thehackernews.com/2015/08/hacking-internet-of-things-drone.html) | drone internet-of-things security zigbee map
-* [$32 Worth of Electronics Can Open Almost Any Keyless Car Door or Garage](http://gizmodo.com/32-worth-of-electronics-can-open-almost-any-keyless-ca-1723072763) |
+* [$32 Worth of Electronics Can Open Almost Any Keyless Car Door or Garage](http://gizmodo.com/32-worth-of-electronics-can-open-almost-any-keyless-ca-1723072763) | hacking car
 
 
