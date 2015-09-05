@@ -37,6 +37,12 @@ Design and Web Development
 http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/
 * [Building a Sleek, Animated Form with CSS](http://product.hubspot.com/blog/how-to-build-a-sleek-animated-input-form-with-css) | design form css tutorial
 
+System, Network and advanced programming
+----------------------------------------
+
+http://fullscreen.github.io/squid/
+
+
 AI, Machine Learning, Research and Advanced Algorithms
 ------------------------------------------------------
 
