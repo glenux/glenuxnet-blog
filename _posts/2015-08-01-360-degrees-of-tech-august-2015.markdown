@@ -12,7 +12,8 @@ tags: [overview, technology, business]
 Startups, Career and Process
 ----------------------------
 
-* [Rand Hindi, l’homme qui veut faire disparaître les technologies](http://www.lemonde.fr/festival/article/2015/07/22/rand-hindi-l-homme-qui-veut-faire-disparaitre-les-technologies_4693695_4415198.html) | pervasive technology startup artificial-intelligence opinion
+* [Rand Hindi, l’homme qui veut faire disparaître les technologies](http://www.lemonde.fr/festival/article/2015/07/22/rand-hindi-l-homme-qui-veut-faire-disparaitre-les-technologies_4693695_4415198.html) 
+  | ``pervasive technology startup artificial-intelligence opinion``
 * [What does a CTO do?](http://code.dblock.org/2015/05/23/what-does-a-cto-do.html) |
 * [Turning Hindsight into Foresight](http://code.dblock.org/2015/09/01/turning-hindsight-into-foresight.html) |
 * [How to run a team of people who never see each other](http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
