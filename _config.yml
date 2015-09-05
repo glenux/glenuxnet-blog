@@ -5,7 +5,6 @@ gems:
  - jekyll-mentions
  - jekyll-sitemap
  - jekyll-feed
- - jekyll-archives
 
 url: http://blog.glenux.net
 baseurl: ""
@@ -15,9 +14,6 @@ permalink: blog/:title/
 markdown: redcarpet
 highlighter: pygments
 paginate: 5
-
-jekyll-archives:
-  enabled: ['categories']
 
 navigation:
  - title: Home

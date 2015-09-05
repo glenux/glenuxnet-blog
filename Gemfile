@@ -6,7 +6,6 @@ gem "jekyll-assets"
 gem "jekyll-sitemap"
 gem "jekyll-mentions"
 gem "jekyll-feed"
-gem "jekyll-archives"
 
 gem "jekyllpress"
 gem "compass"
