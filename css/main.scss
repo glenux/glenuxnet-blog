@@ -50,3 +50,12 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+i[data-tag="FIXME"] {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	background-color: yellow;
+	border: 1px solid black;
+	content: "!";
+}
