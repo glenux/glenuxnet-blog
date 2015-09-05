@@ -7,7 +7,7 @@ categories:
   - 360 degrees of tech
 ---
 
-I'm happy to annouce the first issue of __360° of Tech__, a monthly round-up of the most inspiring articles & links i've read in the latest thirty days.
+I'm proud to annouce the first issue of __360° of Tech__, a monthly round-up of the most inspiring articles & links i've read in the latest thirty days.
 
 Until next month i hope to get enough free time to import past articles, the format and the content of this monthly issue.
 
