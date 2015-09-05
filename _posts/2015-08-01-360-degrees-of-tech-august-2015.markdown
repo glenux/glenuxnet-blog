@@ -35,7 +35,7 @@ Design and Web Development
 * [Introducing Four: It’s WebGL, but Easier](http://www.sitepoint.com/introducing-four-webgl-easier/)
 * [Javascript Debugging Tips and tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/
-
+* [Building a Sleek, Animated Form with CSS](http://product.hubspot.com/blog/how-to-build-a-sleek-animated-input-form-with-css) | Design Form CSS Tutorial
 
 AI, Machine Learning, Research and Advanced Algorithms
 ------------------------------------------------------
