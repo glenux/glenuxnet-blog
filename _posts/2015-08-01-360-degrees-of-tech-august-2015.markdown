@@ -55,7 +55,9 @@ Big Data, Visualization, SQL and NoSQL
 * [CurioDB : a distributed & persistent Redis clone built with Scala & Akka](https://github.com/stephenmcd/curiodb) |
 * [An introductory to CurioDB](http://blog.jupo.org/2015/07/08/curiodb-a-distributed-persistent-redis-clone/) |
 * [Squid : a Ruby library to plot charts in PDF files](http://fullscreen.github.io/squid/) |
-
+* [Introduction to Apache Spark](http://www.codeproject.com/Articles/1023037/Introduction-to-Apache-Spark)
+* [ROM 0.9.0 Released](http://rom-rb.org/blog/2015/08/19/rom-0-9-0-released/) | orm ruby datamapper rewrite
+* [S3QL is a file system that stores all its data online using storage services](https://bitbucket.org/nikratio/s3ql)
 
 Infrastructure, Operations and DevOps
 -------------------------------------
@@ -65,12 +67,10 @@ Infrastructure, Operations and DevOps
 * [Generating Iptables Rules With TrafficCop](https://engineering.opendns.com/2015/08/31/generating-iptables-rules-with-trafficcop/) |
 * [Lita : A robot companion for your company's chat room](https://www.lita.io/) | ruby opensource bot task automation
 
-Data & security
----------------
+Data security
+-------------
 
-* [ROM 0.9.0 Released](http://rom-rb.org/blog/2015/08/19/rom-0-9-0-released/) | orm ruby datamapper rewrite
 * [Implementing Secure User Authentication in PHP Applications with Long-Term Persistence](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence) | 
-
 
 Other links
 -----------
