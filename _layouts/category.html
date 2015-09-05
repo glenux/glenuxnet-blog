@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% assign archive_posts = site.categories[page.category] %}
+<div class="home" id="home">
+<h1 class="pageTitle">{{ page.category }}</h1>
+{% include post_list.html %}
+</div>
