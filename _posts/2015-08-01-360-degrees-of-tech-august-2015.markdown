@@ -13,7 +13,7 @@ Startups, Career and Process
 ----------------------------
 
 * [Rand Hindi, l’homme qui veut faire disparaître les technologies](http://www.lemonde.fr/festival/article/2015/07/22/rand-hindi-l-homme-qui-veut-faire-disparaitre-les-technologies_4693695_4415198.html) 
-  | ``pervasive technology startup artificial-intelligence opinion``
+  | pervasive technology startup, artificial-intelligence, opinion
 * [What does a CTO do?](http://code.dblock.org/2015/05/23/what-does-a-cto-do.html) |
 * [Turning Hindsight into Foresight](http://code.dblock.org/2015/09/01/turning-hindsight-into-foresight.html) |
 * [How to run a team of people who never see each other](http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
@@ -40,22 +40,21 @@ http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/
 * [Building a Sleek, Animated Form with CSS](http://product.hubspot.com/blog/how-to-build-a-sleek-animated-input-form-with-css) | design form css tutorial
 
 
-http://fullscreen.github.io/squid/
-
-
 AI, Machine Learning, Research and Advanced Algorithms
 ------------------------------------------------------
 
 * [On the nature of timers](http://blog.getify.com/on-the-nature-of-timers/) |
 * [The Evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/) |
 * [I, Object! : a short guide on how ruby typing works ](http://jakeyesbeck.com/2015/08/23/ruby-objects/) | ruby typing duck-typing in-depth guide
-
+* [Statistical Patterns in Movie Rating Behavior](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136083) social-network behavior probability crime internet
 
 Big Data, Visualization, SQL and NoSQL
 --------------------------------------
 
+* [Sqitch : a non-opinionated database change management application for perl]()
 * [CurioDB : a distributed & persistent Redis clone built with Scala & Akka](https://github.com/stephenmcd/curiodb) |
 * [An introductory to CurioDB](http://blog.jupo.org/2015/07/08/curiodb-a-distributed-persistent-redis-clone/) |
+* [Squid : a Ruby library to plot charts in PDF files](http://fullscreen.github.io/squid/) |
 
 
 Infrastructure, Operations and DevOps
