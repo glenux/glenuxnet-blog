@@ -37,3 +37,22 @@ li i[data-tag~="FIXME"] {
 	background-color: yellow;
 	border: 1px solid red;
 }
+
+.share-page {
+    text-align: center;
+    background: $white;
+    color: $black;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * $padding 0;
+
+    a {
+        font-weight: 700;
+        color: $link-color;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
+        }
+    }
+}
