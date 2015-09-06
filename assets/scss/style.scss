@@ -30,3 +30,10 @@
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
 
+li i[data-tag~="FIXME"] {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-color: yellow;
+	border: 1px solid red;
+}
