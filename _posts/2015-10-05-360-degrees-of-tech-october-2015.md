@@ -31,7 +31,7 @@ AI, Machine Learning, Research and Advanced Algorithms
   https://medium.com/node-and-beyond/a-node-js-proof-of-concept-virus-df6772afaaff)
   | Medium
   <i data-tag="nodejs virus proof-of-concept first"></i>
-* [](
+* [The 3 Major Industries AI and Big Data Will Reshape This Decade](
   http://singularityhub.com/2015/09/07/the-3-major-industries-ai-and-big-data-will-reshape-this-decade/)
   | Singularity Hub
   <i data-tag="FIXME"></i>
