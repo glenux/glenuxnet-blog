@@ -78,4 +78,4 @@ En vrac / A relire
 * http://glebbahmutov.com/blog/imperative-to-compose-example/
 * http://leo.im/notes/breaking-light-speed-with-cloudflare/
 * http://kaivanov.blogspot.fr/2013/11/creating-official-debian-mirror-with.html
-
+* http://singularityhub.com/2015/09/07/the-3-major-industries-ai-and-big-data-will-reshape-this-decade/
