@@ -27,6 +27,10 @@ Design and Web Development
 AI, Machine Learning, Research and Advanced Algorithms
 ------------------------------------------------------
 
+* [A Node.js Proof of Concept Virus](
+  https://medium.com/node-and-beyond/a-node-js-proof-of-concept-virus-df6772afaaff)
+  | Medium
+  <i data-tag="nodejs virus proof-of-concept first"></i>
 
 
 Big Data, Visualization, SQL and NoSQL
