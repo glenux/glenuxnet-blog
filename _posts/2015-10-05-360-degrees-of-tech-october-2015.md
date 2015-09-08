@@ -14,6 +14,13 @@ FIXME
 Startups, Career and Process
 ----------------------------
 
+* [Advice from 30 year old me to 20 year old me](
+  https://blog.growth.supply/advice-from-30-year-old-me-to-20-year-old-me-b9b035d39e2d)
+  | Medium
+  <i data-tag="FIXME"></i>
+* [Want a Better Pitch? Watch This.](
+  https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
+  <i data-tag="startup pitching marketing"></i>
 
 Design and Web Development
 --------------------------
@@ -35,7 +42,8 @@ AI, Machine Learning, Research and Advanced Algorithms
   http://singularityhub.com/2015/09/07/the-3-major-industries-ai-and-big-data-will-reshape-this-decade/)
   | Singularity Hub
   <i data-tag="FIXME"></i>
-
+* [Startups Almost Never Talk About This — But They Should](
+  https://blog.growth.supply/startups-almost-never-talk-about-this-but-they-should-1cec58faba1c)
 
 Big Data, Visualization, SQL and NoSQL
 --------------------------------------
@@ -82,3 +90,8 @@ En vrac / A relire
 * http://glebbahmutov.com/blog/imperative-to-compose-example/
 * http://leo.im/notes/breaking-light-speed-with-cloudflare/
 * http://kaivanov.blogspot.fr/2013/11/creating-official-debian-mirror-with.html
+
+* [The Incomplete Collection of Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-collection-of-node-js-performance-tips-94cc712661bd)
+  | Medium
+  <i data-tag="FIXME"></i>
+* [Le smartphone, c’est mort…](https://medium.com/@philj/le-smarphone-c-est-mort-b3ec4273a78f)
