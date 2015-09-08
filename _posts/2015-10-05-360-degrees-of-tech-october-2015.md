@@ -9,11 +9,11 @@ categories:
 
 FIXME
 
+
+
 Startups, Career and Process
 ----------------------------
 
-* [What does a CTO do?](http://code.dblock.org/2015/05/23/what-does-a-cto-do.html) | DBlock
-  <i data-tag="value strategy scope impact detail"></i>
 
 Design and Web Development
 --------------------------
@@ -38,11 +38,17 @@ Infrastructure, Operations and DevOps
 -------------------------------------
 
 
-
-
 Security & Data
 ---------------
 
+
+Sharing society, commons, and legal
+-----------------------------------
+
+* [De nouvelles études confirment la valeur du domaine public pour l’innovation et la créativité](
+  http://scinfolex.com/2015/07/24/de-nouvelles-etudes-confirment-la-valeur-du-domaine-public-pour-linnovation-et-la-creativite/)
+  | S.I.Lex
+  <i data-tag="value strategy scope impact detail"></i>
 
 
 Other topics
