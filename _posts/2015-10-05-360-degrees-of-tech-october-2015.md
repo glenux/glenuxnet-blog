@@ -59,4 +59,21 @@ Other topics
 ------------
 
 
+En vrac / A relire
+------------------
 
+https://github.com/jtribe/ghostrunner
+https://github.com/prophittcorey/vim-flay
+http://blog.honeybadger.io/when-to-use-freeze-and-frozen-in-ruby/
+https://medium.com/s-c-a-l-e/github-scaling-on-ruby-with-a-nomadic-tech-team-4db562b96dcd
+https://github.com/Kagami/webm.js
+https://medium.com/aws-activate-startup-blog/amazon-dynamodb-storage-backend-for-titan-distributed-graph-database-b9cc8cca80b7
+http://marshallk.com/category/knowledge-management?cat=8
+https://eng.uber.com/uber-open-source/
+http://blog.honeybadger.io/working-with-ruby-exceptions-outside-of-the-rescue-block/
+http://code.hootsuite.com/rebuilding-the-build/
+https://github.com/facebook/immutable-js
+https://github.com/rackt/redux
+http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html
+http://glebbahmutov.com/blog/imperative-to-compose-example/
+http://leo.im/notes/breaking-light-speed-with-cloudflare/
