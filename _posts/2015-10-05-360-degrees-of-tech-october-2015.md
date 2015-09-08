@@ -77,3 +77,5 @@ https://github.com/rackt/redux
 http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html
 http://glebbahmutov.com/blog/imperative-to-compose-example/
 http://leo.im/notes/breaking-light-speed-with-cloudflare/
+http://kaivanov.blogspot.fr/2013/11/creating-official-debian-mirror-with.html
+
