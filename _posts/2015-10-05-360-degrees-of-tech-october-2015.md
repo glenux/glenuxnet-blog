@@ -74,6 +74,7 @@ Other topics
 En vrac / A relire
 ------------------
 
+* http://korben.info/zeronet.html
 * https://github.com/jtribe/ghostrunner
 * https://github.com/prophittcorey/vim-flay
 * http://blog.honeybadger.io/when-to-use-freeze-and-frozen-in-ruby/
