@@ -25,6 +25,10 @@ Startups, Career and Process
 Design and Web Development
 --------------------------
 
+* [AngularJS with Ruby on Rails, by David Bryant Copeland](
+  http://angular-rails.com/index.html)
+  | Angular Rails
+  <i data-tag="FIXME"></i>
 
 
 ### Other
