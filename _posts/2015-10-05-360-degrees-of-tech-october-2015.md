@@ -71,9 +71,13 @@ Sharing society, commons, and legal
   <i data-tag="value strategy scope impact detail"></i>
 * http://www.managingpartner.com/news/business-strategy/artificial-intelligence-be-%E2%80%98-norm%E2%80%99-law-firms-2020
 
+
+
 Other topics
 ------------
 
+
+http://www.technologyreview.com/news/540711/inside-illuminas-plans-to-lure-consumers-with-an-app-store-for-genomes/
 
 En vrac / A relire
 ------------------
