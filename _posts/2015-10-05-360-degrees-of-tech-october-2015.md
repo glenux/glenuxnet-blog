@@ -28,8 +28,10 @@ Design and Web Development
 * [AngularJS with Ruby on Rails, by David Bryant Copeland](
   http://angular-rails.com/index.html)
   | Angular Rails
-  <i data-tag="FIXME"></i>
-
+  <i data-tag="angularjs rails configuration"></i>
+* [PurifyCSS](https://github.com/purifycss/purifycss) detects which CSS selectors your app is using and creates a file without the unused CSS
+  | Github
+  <i data-tag="css optimization"></i>
 
 ### Other
 
