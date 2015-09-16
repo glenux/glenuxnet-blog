@@ -29,7 +29,8 @@ Design and Web Development
   http://angular-rails.com/index.html)
   | Angular Rails
   <i data-tag="angularjs rails configuration"></i>
-* [PurifyCSS](https://github.com/purifycss/purifycss) detects which CSS selectors your app is using and creates a file without the unused CSS
+* [PurifyCSS detects which CSS selectors your app is using and removes unused CSS](
+  https://github.com/purifycss/purifycss) 
   | Github
   <i data-tag="css optimization"></i>
 
