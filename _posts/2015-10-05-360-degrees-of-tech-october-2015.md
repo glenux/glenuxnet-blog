@@ -67,6 +67,9 @@ Infrastructure, Operations and DevOps
 * [Armada: The way to ship microservices](http://armada.sh/)
   | Armada
   <i data-tag="FIXME"></i>
+* [Tinc: a mesh VPN](http://www.tinc-vpn.org/)
+  | Tinc
+  <i data-tag="FIXME"></i>
 * [l2mesh: a tinc based virtual switch, implemented as a puppet module.](
   https://github.com/sathlan/l2mesh)
   | Github
