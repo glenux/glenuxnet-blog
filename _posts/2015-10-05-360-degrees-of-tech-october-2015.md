@@ -70,7 +70,9 @@ Infrastructure, Operations and DevOps
 * [Tinc: a mesh VPN](http://www.tinc-vpn.org/)
   | Tinc
   <i data-tag="FIXME"></i>
-* https://silvenga.com/deploy-a-tinc-mesh-vpn-running-tap/
+* [Deploy a Tinc Mesh VPN Running TAP](
+  https://silvenga.com/deploy-a-tinc-mesh-vpn-running-tap/)
+  | Silvenga
 * [l2mesh: a tinc based virtual switch, implemented as a puppet module.](
   https://github.com/sathlan/l2mesh)
   | Github
