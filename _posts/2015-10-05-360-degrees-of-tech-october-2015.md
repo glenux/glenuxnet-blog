@@ -66,6 +66,7 @@ Infrastructure, Operations and DevOps
 
 * [Armada: The way to ship microservices](http://armada.sh/)
   | Armada
+* [l2mesh: a tinc based virtual switch, implemented as a puppet module.](https://github.com/sathlan/l2mesh)
   
 
 Security & Data
