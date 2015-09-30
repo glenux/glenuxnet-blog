@@ -94,8 +94,10 @@ Sharing society, commons, and legal
   http://scinfolex.com/2015/07/24/de-nouvelles-etudes-confirment-la-valeur-du-domaine-public-pour-linnovation-et-la-creativite/)
   | S.I.Lex
   <i data-tag="value strategy scope impact detail"></i>
-* http://www.managingpartner.com/news/business-strategy/artificial-intelligence-be-%E2%80%98-norm%E2%80%99-law-firms-2020
-
+* [Artificial intelligence to be ‘the norm’ in law firms by 2020](
+  http://www.managingpartner.com/news/business-strategy/artificial-intelligence-be-%E2%80%98-norm%E2%80%99-law-firms-2020)
+  | ManagingPartner
+  <i data-tag="artificial intelligence law business forecast"></i>
 
 
 Other topics
