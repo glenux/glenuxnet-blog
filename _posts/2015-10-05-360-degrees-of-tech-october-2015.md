@@ -81,7 +81,10 @@ Infrastructure, Operations and DevOps
   https://github.com/sathlan/l2mesh)
   | Github
   <i data-tag="github vpn mesh switch virtual layer-2"></i>
-
+* [Microsoft Built Its Own Linux Because Everyone Else Did](
+  http://www.wired.com/2015/09/microsoft-built-linux-everyone-else/)
+  <i data-tag="microsoft linux infrastructure"></i>
+  | Wired
 
 Security & Data
 ---------------
