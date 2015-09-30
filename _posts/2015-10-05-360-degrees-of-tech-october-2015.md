@@ -37,6 +37,10 @@ Design and Web Development
   http://ramverk.org/)
   | Github
   <i data-tag="FIXME"></i>
+* [What's new in Chrome DevTools? by Addy Osmani](
+  https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools)
+  | SpeakerDeck
+  <i data-tag="FIXME"></i>
 
 ### Other
 
