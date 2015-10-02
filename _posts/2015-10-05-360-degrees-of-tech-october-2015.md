@@ -20,8 +20,12 @@ Startups, Career and Process
   <i data-tag="FIXME"></i>
 * [Want a Better Pitch? Watch This.](
   https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
+  | Medium
   <i data-tag="startup pitching marketing"></i>
-* [Le smartphone, c’est mort…](https://medium.com/@philj/le-smarphone-c-est-mort-b3ec4273a78f)
+* [Le smartphone, c’est mort…](
+  https://medium.com/@philj/le-smarphone-c-est-mort-b3ec4273a78f)
+  | Medium
+  <i data-tag="phone idea usability"></i>
 
 Design and Web Development
 --------------------------
