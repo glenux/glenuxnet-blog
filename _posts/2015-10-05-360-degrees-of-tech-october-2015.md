@@ -1,6 +1,6 @@
 ---
 published: false
-title: 360° of Tech - September 2015
+title: 360° of Tech - October 2015
 layout: post
 tags: [overview, technology, business]
 categories:
@@ -21,6 +21,7 @@ Startups, Career and Process
 * [Want a Better Pitch? Watch This.](
   https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
   <i data-tag="startup pitching marketing"></i>
+* [Le smartphone, c’est mort…](https://medium.com/@philj/le-smarphone-c-est-mort-b3ec4273a78f)
 
 Design and Web Development
 --------------------------
@@ -41,10 +42,22 @@ Design and Web Development
   https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools)
   | SpeakerDeck
   <i data-tag="FIXME"></i>
-
-### Other
-
-
+* [Webm.js: Create WebM videos in your browser. No server-side, pure JavaScript](
+  https://github.com/Kagami/webm.js)
+  | Github
+  <i data-tag="video encoding ffmpeg html5 emscripten"></i>
+* [Imperative to compose example](
+  http://glebbahmutov.com/blog/imperative-to-compose-example/)
+  | Dr. Gleb Bahmutov PhD
+  <i data-tag="javascript nodejs functional programming"></i>
+* [The Incomplete Collection of Node.js Performance Tips](
+  https://medium.com/node-and-beyond/the-incomplete-collection-of-node-js-performance-tips-94cc712661bd)
+  | Medium
+  <i data-tag="FIXME"></i>
+* [Immutable persistent data collections for Javascript which increase efficiency and simplicity](
+  https://github.com/facebook/immutable-js)
+  | Github
+  <i data-tag="FIXME"></i>
 
 AI, Machine Learning, Research and Advanced Algorithms
 ------------------------------------------------------
@@ -59,11 +72,23 @@ AI, Machine Learning, Research and Advanced Algorithms
   <i data-tag="FIXME"></i>
 * [Startups Almost Never Talk About This — But They Should](
   https://blog.growth.supply/startups-almost-never-talk-about-this-but-they-should-1cec58faba1c)
+* [Artificial intelligence to be ‘the norm’ in law firms by 2020](
+  http://www.managingpartner.com/news/business-strategy/artificial-intelligence-be-%E2%80%98-norm%E2%80%99-law-firms-2020)
+  | ManagingPartner
+  <i data-tag="artificial intelligence law business forecast"></i>
 
 Big Data, Visualization, SQL and NoSQL
 --------------------------------------
 
-
+* [Amazon DynamoDB Storage Backend for Titan: Distributed Graph Database](
+  https://medium.com/aws-activate-startup-blog/amazon-dynamodb-storage-backend-for-titan-distributed-graph-database-b9cc8cca80b7)
+  | Medium
+  <i data-tag="FIXME"></i>
+* [GraphQL Introduction](
+  http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+  | React
+  <i data-tag="FIXME"></i>
+* [Inside Illumina’s Plans to Lure Consumers with an App Store for Genomes](http://www.technologyreview.com/news/540711/inside-illuminas-plans-to-lure-consumers-with-an-app-store-for-genomes/)
 
 Infrastructure, Operations and DevOps
 -------------------------------------
@@ -77,18 +102,28 @@ Infrastructure, Operations and DevOps
 * [Deploy a Tinc Mesh VPN Running TAP](
   https://silvenga.com/deploy-a-tinc-mesh-vpn-running-tap/)
   | Silvenga
+  <i data-tag="FIXME"></i>
 * [l2mesh: a tinc based virtual switch, implemented as a puppet module.](
   https://github.com/sathlan/l2mesh)
   | Github
   <i data-tag="github vpn mesh switch virtual layer-2"></i>
-* [Microsoft Built Its Own Linux Because Everyone Else Did](
+* [Microsoft built its own linux because everyone else did](
   http://www.wired.com/2015/09/microsoft-built-linux-everyone-else/)
-  <i data-tag="microsoft linux infrastructure"></i>
   | Wired
+  <i data-tag="microsoft linux infrastructure"></i>
+* [Rebuilding the build](
+  http://code.hootsuite.com/rebuilding-the-build/)
+  | Hootsuite
+  <i data-tag="FIXME"></i>
+
 
 Security & Data
 ---------------
 
+* [ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network](
+  https://github.com/HelloZeroNet/ZeroNet)
+  | Github
+  <i data-tag="decentralized uncensored network communication resilient"></i>
 
 Sharing society, commons, and legal
 -----------------------------------
@@ -97,40 +132,3 @@ Sharing society, commons, and legal
   http://scinfolex.com/2015/07/24/de-nouvelles-etudes-confirment-la-valeur-du-domaine-public-pour-linnovation-et-la-creativite/)
   | S.I.Lex
   <i data-tag="value strategy scope impact detail"></i>
-* [Artificial intelligence to be ‘the norm’ in law firms by 2020](
-  http://www.managingpartner.com/news/business-strategy/artificial-intelligence-be-%E2%80%98-norm%E2%80%99-law-firms-2020)
-  | ManagingPartner
-  <i data-tag="artificial intelligence law business forecast"></i>
-
-
-Other topics
-------------
-
-
-http://www.technologyreview.com/news/540711/inside-illuminas-plans-to-lure-consumers-with-an-app-store-for-genomes/
-
-En vrac / A relire
-------------------
-
-* http://korben.info/zeronet.html
-* https://github.com/jtribe/ghostrunner
-* https://github.com/prophittcorey/vim-flay
-* http://blog.honeybadger.io/when-to-use-freeze-and-frozen-in-ruby/
-* https://medium.com/s-c-a-l-e/github-scaling-on-ruby-with-a-nomadic-tech-team-4db562b96dcd
-* https://github.com/Kagami/webm.js
-* https://medium.com/aws-activate-startup-blog/amazon-dynamodb-storage-backend-for-titan-distributed-graph-database-b9cc8cca80b7
-* http://marshallk.com/category/knowledge-management?cat=8
-* https://eng.uber.com/uber-open-source/
-* http://blog.honeybadger.io/working-with-ruby-exceptions-outside-of-the-rescue-block/
-* http://code.hootsuite.com/rebuilding-the-build/
-* https://github.com/facebook/immutable-js
-* https://github.com/rackt/redux
-* http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html
-* http://glebbahmutov.com/blog/imperative-to-compose-example/
-* http://leo.im/notes/breaking-light-speed-with-cloudflare/
-* http://kaivanov.blogspot.fr/2013/11/creating-official-debian-mirror-with.html
-
-* [The Incomplete Collection of Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-collection-of-node-js-performance-tips-94cc712661bd)
-  | Medium
-  <i data-tag="FIXME"></i>
-* [Le smartphone, c’est mort…](https://medium.com/@philj/le-smarphone-c-est-mort-b3ec4273a78f)
