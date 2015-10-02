@@ -66,16 +66,18 @@ Design and Web Development
 AI, Machine Learning, Research and Advanced Algorithms
 ------------------------------------------------------
 
-* [A Node.js Proof of Concept Virus](
+* [A Node.js proof of concept virus](
   https://medium.com/node-and-beyond/a-node-js-proof-of-concept-virus-df6772afaaff)
   | Medium
   <i data-tag="nodejs virus proof-of-concept first"></i>
-* [The 3 Major Industries AI and Big Data Will Reshape This Decade](
+* [The 3 Major industries AI and Big Data will reshape this decade](
   http://singularityhub.com/2015/09/07/the-3-major-industries-ai-and-big-data-will-reshape-this-decade/)
   | Singularity Hub
   <i data-tag="FIXME"></i>
-* [Startups Almost Never Talk About This — But They Should](
-  https://blog.growth.supply/startups-almost-never-talk-about-this-but-they-should-1cec58faba1c)
+* [Startups almost never talk about this — but they should](
+  https://medium.com/swlh/startups-almost-never-talk-about-this-but-they-should-1cec58faba1c)
+  | Medium
+  <i data-tag="startup advice investment venture-capital technology"></i>
 * [Artificial intelligence to be ‘the norm’ in law firms by 2020](
   http://www.managingpartner.com/news/business-strategy/artificial-intelligence-be-%E2%80%98-norm%E2%80%99-law-firms-2020)
   | ManagingPartner
@@ -84,15 +86,15 @@ AI, Machine Learning, Research and Advanced Algorithms
 Big Data, Visualization, SQL and NoSQL
 --------------------------------------
 
-* [Amazon DynamoDB Storage Backend for Titan: Distributed Graph Database](
+* [Amazon DynamoDB storage backend for titan: distributed graph database](
   https://medium.com/aws-activate-startup-blog/amazon-dynamodb-storage-backend-for-titan-distributed-graph-database-b9cc8cca80b7)
   | Medium
   <i data-tag="FIXME"></i>
-* [GraphQL Introduction](
+* [GraphQL introduction](
   http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
   | React
   <i data-tag="FIXME"></i>
-* [Inside Illumina’s Plans to Lure Consumers with an App Store for Genomes](
+* [Inside Illumina’s plans to lure consumers with an App Store for genomes](
   http://www.technologyreview.com/news/540711/inside-illuminas-plans-to-lure-consumers-with-an-app-store-for-genomes/)
   | MIT Technology Review
   <i data-tag="FIXME"></i>
@@ -100,7 +102,7 @@ Big Data, Visualization, SQL and NoSQL
 Infrastructure, Operations and DevOps
 -------------------------------------
 
-* [Armada: The way to ship microservices](http://armada.sh/)
+* [Armada: the way to ship microservices](http://armada.sh/)
   | Armada
   <i data-tag="FIXME"></i>
 * [Tinc: a mesh VPN](http://www.tinc-vpn.org/)
@@ -127,7 +129,7 @@ Infrastructure, Operations and DevOps
 Security & Data
 ---------------
 
-* [ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network](
+* [ZeroNet: decentralized websites using Bitcoin crypto and BitTorrent network](
   https://github.com/HelloZeroNet/ZeroNet)
   | Github
   <i data-tag="decentralized uncensored network communication resilient"></i>
