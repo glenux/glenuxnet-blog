@@ -7,7 +7,7 @@ categories:
   - 360° of Tech
 ---
 
-FIXME
+This month, a new kind
 
 
 
@@ -22,7 +22,7 @@ Startups, Career and Process
   https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
   | A. Raskin
   <i data-tag="startup pitching marketing"></i>
-* [Le smartphone, c’est mort…](
+* [The smartphone is dead ... (FR)](
   https://medium.com/@philj/le-smarphone-c-est-mort-b3ec4273a78f)
   | P. Jeudy
   <i data-tag="phone idea usability technology"></i>
@@ -34,26 +34,26 @@ Startups, Career and Process
 Design and Web Development
 --------------------------
 
-* [AngularJS with Ruby on Rails](
-  http://angular-rails.com/index.html)
-  | D. B. Copeland
-  <i data-tag="angularjs rails configuration"></i>
-* [PurifyCSS detects which CSS selectors your app is using and removes unused CSS](
-  https://github.com/purifycss/purifycss) 
-  | Github
-  <i data-tag="css optimization"></i>
-* [Ramverk, the Ruby web framework : fast, unopinionated, simple](
-  http://ramverk.org/)
-  | Github
-  <i data-tag="ruby web framework fast simple"></i>
 * [What's new in Chrome DevTools?](
   https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools)
   | A. Osmani
   <i data-tag="chrome development tool web presentation"></i>
+* [Ramverk, the Ruby web framework : fast, unopinionated, simple](
+  http://ramverk.org/)
+  | Github
+  <i data-tag="ruby web framework fast simple"></i>
+* [PurifyCSS detects which CSS selectors your app is using and removes unused CSS](
+  https://github.com/purifycss/purifycss) 
+  | Github
+  <i data-tag="css optimization tool cleaning"></i>
 * [Webm.js: Create WebM videos in your browser. No server-side, pure JavaScript](
   https://github.com/Kagami/webm.js)
   | Github
   <i data-tag="video encoding ffmpeg html5 emscripten"></i>
+* [AngularJS with Ruby on Rails](
+  http://angular-rails.com/index.html)
+  | D. B. Copeland
+  <i data-tag="angularjs rails project configuration"></i>
 * [Imperative to compose example](
   http://glebbahmutov.com/blog/imperative-to-compose-example/)
   | Dr. G. Bahmutov
@@ -62,10 +62,6 @@ Design and Web Development
   https://medium.com/node-and-beyond/the-incomplete-collection-of-node-js-performance-tips-94cc712661bd)
   | M. Gattermeier
   <i data-tag="nodejs performance optimization tips"></i>
-* [Immutable data structures and JavaScript](
-  http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)
-  | J. Long
-  <i data-tag="javascript data structure immutable optimization"></i>
 
 Concurrency, Performance and Scalability
 ----------------------------------------
@@ -74,6 +70,10 @@ Concurrency, Performance and Scalability
   http://epickrram.blogspot.co.uk/2015/09/reducing-system-jitter.html)
   | M. Price
   <i data-tag="linux jitter thread optimization latency cpu process"></i>
+* [Immutable data structures and JavaScript](
+  http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)
+  | J. Long
+  <i data-tag="javascript data structure immutable optimization"></i>
 
 
 AI, Machine Learning, Research and Advanced Algorithms
@@ -151,10 +151,11 @@ Security & Data
   | Github
   <i data-tag="decentralized uncensored network communication resilient"></i>
 
+
 Sharing society, commons, and legal
 -----------------------------------
 
-* [De nouvelles études confirment la valeur du domaine public pour l’innovation et la créativité](
+* [New studies confirm the value of the public domain for innovation and creativity (FR)](
   http://scinfolex.com/2015/07/24/de-nouvelles-etudes-confirment-la-valeur-du-domaine-public-pour-linnovation-et-la-creativite/)
   | L. Maurel
   <i data-tag="value strategy scope impact detail"></i>
