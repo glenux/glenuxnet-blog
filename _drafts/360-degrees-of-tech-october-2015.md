@@ -7,10 +7,11 @@ categories:
   - 360° of Tech
 ---
 
-This month issue focuses on the most important topics of 
-:
+Still based on the same structure, this months issue introduces two new categories : Security & Sharing society.
 
+Still based on the same structure, this months issue introduces two new categories : Security & Sharing society.
 
+Still based on the same structure,
 
 Startups, Career and Process
 ----------------------------
