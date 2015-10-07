@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 360° of Tech - October 2015
 layout: post
 tags: [overview, technology, business]
@@ -7,7 +7,8 @@ categories:
   - 360° of Tech
 ---
 
-This month, a new kind
+This month issue focuses on the most important topics of 
+:
 
 
 
