@@ -1,4 +1,12 @@
-﻿## August
+
+## October
+
+### Data security 
+
+* http://geeknizer.com/top-usb-hacks-pwn/
+* http://theglitch.sourceforge.net/
+
+## August
 
 * [Fast Ruby Build](
   https://github.com/JuanitoFatas/fast-ruby)
