@@ -145,8 +145,8 @@ Infrastructure, Operations and DevOps
   <i data-tag="github vpn mesh switch virtual layer-2"></i>
 
 
-Security & Data
----------------
+Security and Data
+-----------------
 
 * [ZeroNet: decentralized websites using Bitcoin crypto and BitTorrent network](
   https://github.com/HelloZeroNet/ZeroNet)
@@ -154,10 +154,15 @@ Security & Data
   <i data-tag="decentralized uncensored network communication resilient"></i>
 
 
-Sharing society, commons, and legal
------------------------------------
+Commons, P2P and Legal
+----------------------
 
 * [New studies confirm the value of the public domain for innovation and creativity (FR)](
   http://scinfolex.com/2015/07/24/de-nouvelles-etudes-confirment-la-valeur-du-domaine-public-pour-linnovation-et-la-creativite/)
   | L. Maurel
   <i data-tag="value strategy scope impact detail"></i>
+* [CC BY-SA 4.0 now one-way compatible with GPLv3](
+  https://creativecommons.org/weblog/entry/46186)
+  | M. Linksvayer
+  <i data-tag="creative-commons gnu-gpl-v3 compatibility licence"></i>
+

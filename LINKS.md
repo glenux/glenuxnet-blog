@@ -1,6 +1,9 @@
 
 ## October
 
+* http://www.gartner.com/newsroom/id/3146018
+* https://github.com/DigixGlobal/ethereum-ruby
+
 ### Data security 
 
 * http://geeknizer.com/top-usb-hacks-pwn/
