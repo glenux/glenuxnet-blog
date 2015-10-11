@@ -1,8 +1,8 @@
-﻿---
+---
 published: true
 title: 360° of Tech - October 2015
 layout: post
-tags: [overview, technology, business, vpn, microservice]
+tags: [overview, technology, business]
 categories:
   - 360° of Tech
 ---
@@ -11,6 +11,10 @@ Hi folks! In this issue, we continue to explore the topic of micro-services mana
 
 As you can see below, I feel a growing need to organize better the articles and to group them by theme. Maybe we will end up with each issue covering a specific topic. But until a better tooling and process is found, I keep current structure. Still, I introduced two new categories: security & commons. I hope you'll like them.
 
+    published: true
+    title: 360° of Tech - October 2015
+    layout: post
+    tags: [overview, technology, business, vpn, microservice]
 
 Startups, Career and Process
 ----------------------------
