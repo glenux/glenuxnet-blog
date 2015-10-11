@@ -1,4 +1,4 @@
----
+﻿---
 published: true
 title: 360° of Tech - October 2015
 layout: post
@@ -7,26 +7,25 @@ categories:
   - 360° of Tech
 ---
 
-Still based on the same structure, this months issue introduces two new categories : Security & Sharing society.
+Hi folks! In this issue, we continue to explore the topic of micro-services management, and we begin talking about mesh VPN, which is one of our current needs at [netcat\_](http://netcat.io).
 
-Still based on the same structure, this months issue introduces two new categories : Security & Sharing society.
+As you can see below, I feel a growing need to organize better the articles and to group them by theme. Maybe we will end up with each issue covering a specific topic. But until a better tooling and process is found, I keep current structure. Still, I introduced two new categories: security & commons. I hope you'll like them.
 
-Still based on the same structure,
 
 Startups, Career and Process
 ----------------------------
 
 * [Advice from 30 year old me to 20 year old me](
   https://blog.growth.supply/advice-from-30-year-old-me-to-20-year-old-me-b9b035d39e2d)
-  | N. Haralambous
+  | N. Haralambous
   <i data-tag="life hacking travel build read tv people value time fail success patient"></i>
 * [Want a Better Pitch? Watch This.](
   https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
-  | A. Raskin
+  | A. Raskin
   <i data-tag="startup pitching marketing"></i>
 * [The smartphone is dead ... (FR)](
   https://medium.com/@philj/le-smarphone-c-est-mort-b3ec4273a78f)
-  | P. Jeudy
+  | P. Jeudy
   <i data-tag="phone idea usability technology"></i>
 * [Startups almost never talk about this — but they should](
   https://medium.com/swlh/startups-almost-never-talk-about-this-but-they-should-1cec58faba1c)
@@ -54,15 +53,15 @@ Design and Web Development
   <i data-tag="video encoding ffmpeg html5 emscripten"></i>
 * [AngularJS with Ruby on Rails](
   http://angular-rails.com/index.html)
-  | D. B. Copeland
+  | D. B. Copeland
   <i data-tag="angularjs rails project configuration"></i>
 * [Imperative to compose example](
   http://glebbahmutov.com/blog/imperative-to-compose-example/)
-  | Dr. G. Bahmutov
+  | Dr. G. Bahmutov
   <i data-tag="javascript nodejs functional programming"></i>
 * [The incomplete collection of Node.js performance tips](
   https://medium.com/node-and-beyond/the-incomplete-collection-of-node-js-performance-tips-94cc712661bd)
-  | M. Gattermeier
+  | M. Gattermeier
   <i data-tag="nodejs performance optimization tips"></i>
 
 Concurrency, Performance and Scalability
@@ -70,11 +69,11 @@ Concurrency, Performance and Scalability
 
 * [Reducing system jitter](
   http://epickrram.blogspot.co.uk/2015/09/reducing-system-jitter.html)
-  | M. Price
+  | M. Price
   <i data-tag="linux jitter thread optimization latency cpu process"></i>
 * [Immutable data structures and JavaScript](
   http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)
-  | J. Long
+  | J. Long
   <i data-tag="javascript data structure immutable optimization"></i>
 
 
@@ -83,15 +82,15 @@ AI, Machine Learning, Research and Advanced Algorithms
 
 * [A Node.js proof of concept virus](
   https://medium.com/node-and-beyond/a-node-js-proof-of-concept-virus-df6772afaaff)
-  | M. Gattermeier
+  | M. Gattermeier
   <i data-tag="nodejs virus proof-of-concept first"></i>
 * [The 3 Major industries AI and Big Data will reshape this decade](
   http://singularityhub.com/2015/09/07/the-3-major-industries-ai-and-big-data-will-reshape-this-decade/)
-  | P. Diamandis
+  | P. Diamandis
   <i data-tag="healthcare finance insurance artifical-intelligence big-data"></i>
 * [Artificial intelligence to be ‘the norm’ in law firms by 2020](
   http://www.managingpartner.com/news/business-strategy/artificial-intelligence-be-%E2%80%98-norm%E2%80%99-law-firms-2020)
-  | M. Manglani
+  | M. Manglani
   <i data-tag="artificial intelligence law business forecast"></i>
 
 Big Data, Visualization, SQL and NoSQL
@@ -99,15 +98,15 @@ Big Data, Visualization, SQL and NoSQL
 
 * [Amazon DynamoDB storage backend for titan: distributed graph database](
   https://medium.com/aws-activate-startup-blog/amazon-dynamodb-storage-backend-for-titan-distributed-graph-database-b9cc8cca80b7)
-  | M. Sowders & A. Patrikalakis
+  | M. Sowders & A. Patrikalakis
   <i data-tag="startup database cloud-computing titan distributed graph database dynamodb amazon"></i>
 * [GraphQL introduction](
   http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
-  | N. Schrock
+  | N. Schrock
   <i data-tag="react query data html5 object graph client-server"></i>
 * [Inside Illumina’s plans to lure consumers with an App Store for genomes](
   http://www.technologyreview.com/news/540711/inside-illuminas-plans-to-lure-consumers-with-an-app-store-for-genomes/)
-  | A. Regalado
+  | A. Regalado
   <i data-tag="app-store genome genetic information startup data"></i>
 
 Infrastructure, Operations and DevOps
@@ -119,25 +118,25 @@ Infrastructure, Operations and DevOps
   https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/)
   & [Part 3](
   https://auth0.com/blog/2015/10/02/an-introduction-to-microservices-part-3-the-service-registry/)
-  | S. Peyrott
+  | S. Peyrott
   <i data-tag="microservices design-pattern api, design, software, architecture"></i>
 * [Microsoft built its own linux because everyone else did](
   http://www.wired.com/2015/09/microsoft-built-linux-everyone-else/)
-  | C. Metz
+  | C. Metz
   <i data-tag="microsoft linux infrastructure"></i>
 * [Armada: the way to ship microservices](http://armada.sh/)
   | Armada
   <i data-tag="armada microservice development deployment configuration docker"></i>
 * [Rebuilding the build](
   http://code.hootsuite.com/rebuilding-the-build/)
-  | M. Eijsermans
+  | M. Eijsermans
   <i data-tag="continuous integration delivery process quality container"></i>
 * [Tinc: a mesh VPN](http://www.tinc-vpn.org/)
   | Tinc
   <i data-tag="tinc mesh vpn tool"></i>
 * [Deploy a Tinc Mesh VPN Running TAP](
   https://silvenga.com/deploy-a-tinc-mesh-vpn-running-tap/)
-  | M. Lopez
+  | M. Lopez
   <i data-tag="tinc mesh vpn tutorial switch bridge"></i>
 * [l2mesh: a tinc based virtual switch, implemented as a puppet module.](
   https://github.com/sathlan/l2mesh)
@@ -152,17 +151,23 @@ Security and Data
   https://github.com/HelloZeroNet/ZeroNet)
   | Github
   <i data-tag="decentralized uncensored network communication resilient"></i>
+* [LibreSSL - The first 30 days](
+  http://www.openbsd.org/papers/bsdcan14-libressl/) 
+  and [more than 30 days layer](
+  http://www.openbsd.org/papers/eurobsdcon2014-libressl.html)
+  | B. Beck and T. Unangst
+  <i data-tag="openbsd libressl openssl security fork bsdcan eurobsdcon"></i>
 
-
+ 
 Commons, P2P and Legal
 ----------------------
 
 * [New studies confirm the value of the public domain for innovation and creativity (FR)](
   http://scinfolex.com/2015/07/24/de-nouvelles-etudes-confirment-la-valeur-du-domaine-public-pour-linnovation-et-la-creativite/)
-  | L. Maurel
+  | L. Maurel
   <i data-tag="value strategy scope impact detail"></i>
 * [CC BY-SA 4.0 now one-way compatible with GPLv3](
   https://creativecommons.org/weblog/entry/46186)
-  | M. Linksvayer
+  | M. Linksvayer
   <i data-tag="creative-commons gnu-gpl-v3 compatibility licence"></i>
 
