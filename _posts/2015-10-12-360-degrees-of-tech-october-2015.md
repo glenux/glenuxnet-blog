@@ -2,7 +2,7 @@
 published: true
 title: 360° of Tech - October 2015
 layout: post
-tags: [overview, technology, business]
+tags: [overview, technology, business, vpn, microservice]
 categories:
   - 360° of Tech
 ---
