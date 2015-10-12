@@ -177,6 +177,28 @@ POST STYLING
 	a {
 		text-decoration: none;
 	}
+
+	.related {
+		position: relative;
+		margin-top: 4rem;
+
+		&:before {
+			@include span(9 of 12); 
+			float: none;
+			margin: 0 auto 2rem; 
+			content: "";
+			display: block;
+			top: -2rem;
+			left: 0;
+			background: darken(white, 10%);
+			height: 2px;
+			width: 60px;
+		}
+
+		.posts li::before {
+			display: none;
+		}
+	}
 }
 
 
