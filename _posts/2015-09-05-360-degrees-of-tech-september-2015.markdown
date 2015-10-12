@@ -7,7 +7,11 @@ categories:
   - 360° of Tech
 ---
 
-I'm proud to announce the first issue of 360° of Tech, a monthly round-up of the most inspiring articles & links I've read. The structure of this reading list is inspired by the excellent [Geek Reading](http://regulargeek.com/2015/08/31/geek-reading-august-31-2015/) (a daily reading list) but will evolve to include other aspects like new uses of technology,  legal stuff, etc.
+I'm proud to announce the first issue of 360° of Tech, a monthly round-up of the most inspiring articles & links I've read. 
+
+<!-- more -->
+
+The structure of this reading list is inspired by the excellent [Geek Reading](http://regulargeek.com/2015/08/31/geek-reading-august-31-2015/) (a daily reading list) but will evolve to include other aspects like new uses of technology,  legal stuff, etc.
 
 Stay tuned for the next issue. Until then, all comments and inspiring links are welcome!
 
