@@ -1,4 +1,3 @@
-
 ---
 published: false
 title: 360° of Tech - November 2015
