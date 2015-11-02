@@ -19,6 +19,38 @@ As you can see below, I feel a growing need to organize better the articles and 
   | 
   <i data-tag="FIXME"></i>
 
+
 Startups, Career and Process
 ----------------------------
+
+
+Design and Web Development
+--------------------------
+
+
+Concurrency, Performance and Scalability
+----------------------------------------
+
+
+AI, Machine Learning, Research and Advanced Algorithms
+------------------------------------------------------
+
+
+Big Data, Visualization, SQL and NoSQL
+--------------------------------------
+
+
+
+Infrastructure, Operations and DevOps
+-------------------------------------
+
+
+
+Security and Data
+-----------------
+
+
+
+Commons, P2P and Legal
+----------------------
 
