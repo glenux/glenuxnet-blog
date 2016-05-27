@@ -7,6 +7,8 @@ gem "jekyll-assets"
 gem "jekyll-sitemap"
 gem "jekyll-mentions"
 gem "jekyll-feed"
+gem "jekyll-watch"
+gem "jekyll-paginate"
 
 # Asset generation
 gem "compass"
