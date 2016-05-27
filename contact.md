@@ -8,9 +8,11 @@ published: true
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p><b>Glenn Y. Rolland</b></p>
+    <p>
+    Tel: +33 (0) 6 739 839 56<br/>
+    Email: glenux@glenux.net<br/>
+    Twitter: @glenux</p>
   </div>
   <form action="http://formspree.io/glenux@glenux.net" method="POST">
     <label for="name">Name</label>    
