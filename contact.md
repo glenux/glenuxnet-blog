@@ -2,7 +2,7 @@
 layout: default
 title: Contact Me
 permalink: /contact/
-published: false
+published: true
 ---
 
 <div id="contact">

@@ -3,7 +3,7 @@ source "https://rubygems.org"
 
 # Jekyll (content)
 gem "jekyll"
-gem "jekyll-assets"
+# gem "jekyll-assets"
 gem "jekyll-sitemap"
 gem "jekyll-mentions"
 gem "jekyll-feed"
@@ -24,3 +24,4 @@ gem 'guard-jekyll-plus'
 # Forcing versions
 gem "hitimes", "~> 1.2.3"
 gem "thin"
+

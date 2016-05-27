@@ -18,11 +18,11 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /index.html
-# - title: About
-#   url: /about
-# - title: Contact
-#   url: /contact
+   url: /
+ - title: 360° of tech
+   url: /category/360-of-tech/
+ - title: Contact
+   url: /contact/
 
 social:
    github: glenux
