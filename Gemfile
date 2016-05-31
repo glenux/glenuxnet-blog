@@ -17,6 +17,7 @@ gem "normalize-scss"
 
 # Plumbing & various tools
 #gem "jekyllpress"
+gem 'jekyll-compose', group: [:jekyll_plugins]
 gem "guard"
 gem "guard-livereload"
 gem 'guard-jekyll-plus'
