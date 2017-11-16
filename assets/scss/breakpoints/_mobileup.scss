@@ -375,7 +375,7 @@ FOOTER STYLING
 	padding: 2rem 0;
 
 	.container {
-		border-top: 4px solid darken(white, 15%);
+		border-top: 4px solid lighten($netcat, 15%);
 		padding-top: .5em;
 		@include container(90%);
 	}
