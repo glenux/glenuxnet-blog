@@ -16,6 +16,7 @@ RUN cd /app \
 COPY . /app/
 
 RUN cd /app \
+	&& bundle exec compass compile \
 	&& bundle exec jekyll build
 
 RUN rm -fr /usr/share/nginx/html \
