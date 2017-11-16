@@ -7,10 +7,15 @@ RUN apk update && apk upgrade && apk --update add \
   	libc6-compat libstdc++ tzdata bash ca-certificates \
     &&  echo 'gem: --no-document' > /etc/gemrc
 
-COPY . /app
+COPY Gemfile /app/Gemfile
+COPY Gemfile.lock /app/Gemfile.lock
 
 RUN cd /app \
-	&& bundle install \
+	&& bundle install
+
+COPY . /app/
+
+RUN cd /app \
 	&& bundle exec jekyll build
 
 RUN rm -fr /usr/share/nginx/html \
