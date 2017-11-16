@@ -11,6 +11,7 @@ gem "jekyll-watch"
 gem "jekyll-paginate"
 
 # Asset generation
+gem "redcarpet"
 gem "compass"
 gem "susy"
 gem "normalize-scss"
