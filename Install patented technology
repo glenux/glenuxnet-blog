@@ -1,0 +1,159 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+
+postgre ib security
+Repositories0
+Code5K
+Commits0
+Issues45
+Marketplace0
+Topics0
+Wikis5
+Users0
+Language
+
+Sort
+
+5,355 code results
+@glenux
+glenux/glenux.github.io – LINKS.md
+Showing the top two matches
+Last indexed on Jun 30, 2018
+Markdown
+* https://github.com/DigixGlobal/ethereum-ruby
+
+### Data security 
+
+* http://geeknizer.com/top-usb-hacks-pwn/
+* http://theglitch.sourceforge.net/
+* [Le benchmark performance de PostgreSQL 9.1, sur plusieurs OS](
+  http://www.unix-experience.fr/2013/benchmark-comparatif-postgresql-9-1/)
+@sharathr1
+sharathr1/rscb – application.properties
+Showing the top two matches
+Last indexed on Aug 22, 2018
+INI
+spring.jpa.hibernate.ddl-auto = validate
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.database-platform=org.hibernate.dialect.PostgreSQL9Dialect
+
+server.compression.mime-types=application/json,application/xml,text/html,text/xml,text/plain,application/javascript,text/css,image/svg+xml,image/x-icon,image/png,image/*
+@AlenToma
+AlenToma/EntityWorker.Core – MD5SHA1.cs
+Showing the top two matches
+Last indexed on Jun 27, 2018
+C#
+#if NET45 || NET451
+#region License
+// The PostgreSQL License
+//
+// Copyright (C) 2017 The Npgsql Development Team
+// TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+#endregion
+
+using System;
+using System.Security.Cryptography;
+
+namespace EntityWorker.Core.Postgres.Tls
+@kristinaerm
+kristinaerm/Puzzle1 – MD5SHA1.cs
+Showing the top two matches
+Last indexed on Nov 22, 2018
+C#
+#if NET45 || NET451
+#region License
+// The PostgreSQL License
+//
+// Copyright (C) 2018 The Npgsql Development Team
+// TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+#endregion
+
+using System;
+using System.Security.Cryptography;
+
+namespace Npgsql.Tls
+@charlesbjohnson
+charlesbjohnson/cbjohnson.info – lob.html
+Showing the top two matches
+Last indexed on Jun 27, 2018
+HTML
+    <div>
+        <span class="D(ib) W(1.1rem) Mend(0.25rem)">
+            <img src="${require('octicons/build/svg/calendar.svg')}" class="H(vr-5) W(auto) Va(m)">
+        <span class="Fz(0.85rem)">2016 - 2017</span>
+    </div>
+
+    <div>
+        <span class="D(ib) W(1.1rem) Mend(0.25rem)">
+@moxis
+moxis/IB-CompSci-Project – README.md
+Showing the top match
+Last indexed on Sep 30, 2018
+Markdown
+# IB Computer Science Project
+## Introduction
+
+**DISCLAIMER: This is only for inspirational purposes. Please do not copy this project otherwise you will fail your IB Diplomme due to PLAGIARISM!**
+@Niemzok
+Niemzok/fango – env.example
+Showing the top two matches
+Last indexed on Jul 4, 2018
+# PostgreSQL
+POSTGRES_PASSWORD=mysecretpass
+POSTGRES_USER=postgresuser
+
+# General settings
+DJANGO_SECRET_KEY=--srmfnhrh6b7e2&im#u^&_=z=6z!ib+istgjpehx0yszn@)a*
+DJANGO_ALLOWED_HOSTS=.fango.io
+
+# AWS Settings
+DJANGO_AWS_ACCESS_KEY_ID=
+@VitoDalena
+VitoDalena/exlux – dbdump.sql
+Showing the top two matches
+Last indexed on Jul 13, 2018
+SQLPL
+--
+-- PostgreSQL database dump
+--
+
+-- Dumped from database version 9.5.12
+-- Dumped by pg_dump version 9.5.12
+SET check_function_bodies = false;
+SET client_min_messages = warning;
+SET row_security = off;
+
+--
+-- Name: exlux; Type: SCHEMA; Schema: -; Owner: root
+@lyuehh
+lyuehh/news-scripts – 47.csv
+Showing the top two matches
+Last indexed on Jun 28, 2018
+CSV
+Modern SQL in PostgreSQL,http://www.slideshare.net/MarkusWinand/modern-sql
+Announcing MongoDB 3.0; with General Availability in March,https://www.mongodb.com/blog/post/announcing-mongodb-30
+5 Big Data Trends Moving into the Spotlight in 2015,http://www.dbta.com/Editorial/Trends-and-Applications/5-Big-Data-Trends-Moving-into-the-Spotlight-in-2015-101633.aspx
+Major Security Alert As 40;000 MongoDB Databases Left Unsecured On The Internet,http://www.information-age.com/technology/security/123459001/major-security-alert-40000-mongodb-databases-left-unsecured-internet
+@hhy5277
+hhy5277/it-news – 47.csv
+Showing the top two matches
+Last indexed on Jul 2, 2018
+CSV
+Modern SQL in PostgreSQL,http://www.slideshare.net/MarkusWinand/modern-sql
+Announcing MongoDB 3.0; with General Availability in March,https://www.mongodb.com/blog/post/announcing-mongodb-30
+5 Big Data Trends Moving into the Spotlight in 2015,http://www.dbta.com/Editorial/Trends-and-Applications/5-Big-Data-Trends-Moving-into-the-Spotlight-in-2015-101633.aspx
+Major Security Alert As 40;000 MongoDB Databases Left Unsecured On The Internet,http://www.information-age.com/technology/security/123459001/major-security-alert-40000-mongodb-databases-left-unsecured-internet
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
