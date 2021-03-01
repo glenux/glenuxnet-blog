@@ -1,6 +1,15 @@
-version: '3'
+---
+version: '3.4'
+
 services:
   web:
-    build: .
+    image: glenux-blog:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: builder
+    command: bundle exec jekyll serve --port 80 --host 0.0.0.0
+    volumes:
+      - .:/app
     ports:
-     - "8000:80"
+      - "8000:80"
