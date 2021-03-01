@@ -8,7 +8,7 @@ services:
       context: .
       dockerfile: Dockerfile
       target: builder
-    command: bundle exec jekyll serve --port 80 --host 0.0.0.0
+    command: foreman start
     volumes:
       - .:/app
     ports:
