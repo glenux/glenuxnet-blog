@@ -1,12 +1,23 @@
 <div class="footer">
    <div class="container">
-      <p class="copy">&copy; {{ site.time | date: '%Y' }} <a href="http://blog.glenux.net">Glenn Y. Rolland</a> Powered by <a href="http://jekyllrb.com">Jekyll</a></p>
+      <p class="copy">{{ site.time | date: '%Y' }} &copy; <a href="{{ site.baseurl }}">Glenn Y. Rolland</a>
+      </p>
 
       <div class="footer-links"> 
          <ul class="noList"> 
+         	 {% if site.social.linkedin %}
+         	 <li><a href="https://www.linkedin.com/in/{{ site.social.linkedin }}">
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="height: 30px; width: 30px;">
+<circle class="outer-shape" cx="50" cy="50" r="48" style="opacity: 1;"></circle>
+ <path class="inner-shape" style="opacity: 1;" transform="translate(30,25)" d="m0 10.52c0-1.3334 0.46668-2.4334 1.4-3.3 0.93332-0.86668 2.1467-1.3 3.64-1.3 1.4667 0 2.6533 0.42664 3.56 1.28 0.93332 0.88 1.4 2.0266 1.4 3.44 0 1.28-0.45332 2.3466-1.36 3.2-0.93332 0.88-2.16 1.32-3.68 1.32h-0.039999c-1.4667 0-2.6533-0.44-3.56-1.32-0.90668-0.88-1.36-1.9867-1.36-3.32zm0.52 35v-26.72h8.88v26.72zm13.8 0h8.88v-14.92c0-0.93336 0.10667-1.6534 0.32-2.16 0.37332-0.90668 0.94-1.6734 1.7-2.3 0.76-0.62668 1.7133-0.94 2.86-0.94 2.9867 0 4.48 2.0133 4.48 6.04v14.28h8.88v-15.32c0-3.9467-0.93332-6.94-2.8-8.98-1.8667-2.04-4.3333-3.06-7.4-3.06-3.44 0-6.12 1.48-8.04 4.44v0.08h-0.04l0.04-0.08v-3.8h-8.88c0.05331 0.85332 0.08 3.5066 0.08 7.96 0 4.4533-0.02668 10.707-0.08 18.76z" style="stroke-width:.04"/>
+</svg>
+
+         	 </a></li>
+         	 {%endif %}
             {% if site.social.facebook %}
             <li><a href="https://www.facebook.com/{{ site.social.facebook }}">
-                  <svg id="facebook-square" class="custom-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" style="height: 30px; width: 30px;"><circle class="outer-shape" cx="50" cy="50" r="48" style="opacity: 1;"></circle>
+                  <svg id="facebook-square" class="custom-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" style="height: 30px; width: 30px;">
+                  <circle class="outer-shape" cx="50" cy="50" r="48" style="opacity: 1;"></circle>
                   <path class="inner-shape" style="opacity: 1;" transform="translate(25,25) scale(0.5)" d="M82.667,1H17.335C8.351,1,1,8.351,1,17.336v65.329c0,8.99,7.351,16.335,16.334,16.335h65.332 C91.652,99.001,99,91.655,99,82.665V17.337C99,8.353,91.652,1.001,82.667,1L82.667,1z M84.318,50H68.375v42.875H50V50h-8.855V35.973 H50v-9.11c0-12.378,5.339-19.739,19.894-19.739h16.772V22.3H72.967c-4.066-0.007-4.57,2.12-4.57,6.078l-0.023,7.594H86.75 l-2.431,14.027V50z"></path>
                   </svg>
             </a></li>
