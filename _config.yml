@@ -1,34 +1,46 @@
+---
 title: blog.glenux.net
 description: Chroniques d'un gnou libre
 
+plugins:
+  - jekyll-paginate
+
 gems:
- - jekyll-paginate
- - jekyll-mentions
- - jekyll-sitemap
- - jekyll-feed
+  - jekyll-paginate
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-compass
 
 url: http://blog.glenux.net
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 paginate: 5
 
+sass:
+  sass_dir: assets/scss
+
 navigation:
- - title: Home
-   url: /
- - title: 360° of tech
-   url: /category/360-of-tech/
- - title: Contact
-   url: /contact/
+  - title: Home
+    url: /
+  - title: 360° of Tech
+    url: /category/360-degrees-of-tech/
+  - title: Contact
+    url: /contact/
 
 social:
-   github: glenux
-   twitter: glenux
-   facebook: glenux
-   email: glenux@glenux.net
+  github: glenux
+  twitter: glenux
+  linkedin: glenux
+  facebook: null
+  mastodon: glenux@mastodon.social
+  email: glenux@glenux.net
 
-google_analytics: ""
+google_analytics: null
 
+enable_sharing_buttons: false
+#
