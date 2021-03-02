@@ -193,6 +193,7 @@ HEADER STYLING
 
 		a {
 			color: white;
+			text-shadow: 0 0 10px rgba(0,0,0,0.5);
 			text-decoration: none; 
 		}
 	}
@@ -375,7 +376,7 @@ FOOTER STYLING
 	padding: 2rem 0;
 
 	.container {
-		border-top: 4px solid darken(white, 15%);
+		border-top: 4px solid lighten($netcat, 15%);
 		padding-top: .5em;
 		@include container(90%);
 	}

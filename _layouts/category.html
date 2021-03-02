@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign archive_posts = site.posts | where_exp:"item", "item.categories" contains page.category%}
+{% assign archive_posts = site.posts | where_exp:"item", "item.categories" contains page.category %}
 <!-- assign archive_posts = site.categories[page.category] -->
 <div class="home" id="home">
 <h1 class="pageTitle">{{ page.category }}</h1>

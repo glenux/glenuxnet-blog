@@ -1,0 +1,15 @@
+---
+version: '3.4'
+
+services:
+  web:
+    image: glenux-blog:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: builder
+    command: foreman start
+    volumes:
+      - .:/app
+    ports:
+      - "8000:80"
