@@ -2,6 +2,9 @@
 title: blog.glenux.net
 description: Chroniques d'un gnou libre
 
+exclude:
+  - config.rb
+
 plugins:
   - jekyll-paginate
 
