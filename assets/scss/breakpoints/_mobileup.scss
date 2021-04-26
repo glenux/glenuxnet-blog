@@ -190,11 +190,15 @@ HEADER STYLING
 		font-family: $sans-serif;
 		font-weight: 800;
 		text-transform: uppercase;
+		text-shadow: 0 0 10px rgba(0,0,0,0.5);
 
 		a {
 			color: white;
-			text-shadow: 0 0 10px rgba(0,0,0,0.5);
 			text-decoration: none; 
+		}
+
+		.description {
+		  display: none;
 		}
 	}
 }
@@ -376,7 +380,7 @@ FOOTER STYLING
 	padding: 2rem 0;
 
 	.container {
-		border-top: 4px solid lighten($netcat, 15%);
+		border-top: 4px solid $secondary-color;
 		padding-top: .5em;
 		@include container(90%);
 	}
@@ -408,7 +412,7 @@ FOOTER STYLING
 						height: 100%;
 
 						.outer-shape {
-							fill: $primary-color;
+							fill: $secondary-color;
 						}
 
 						.inner-shape { 

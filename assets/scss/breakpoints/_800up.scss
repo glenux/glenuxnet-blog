@@ -70,8 +70,13 @@ HEADER STYLING
 	h1 {
 		font-size: 3em;
 		line-height: 1;
-		letter-spacing: -3px;
+		// letter-spacing: -1px;
 		padding-left: 0;
+
+		.description {
+		  font-size: 65%;
+		  display: block;
+		}
 	}
 
 	nav {
@@ -88,6 +93,8 @@ HEADER STYLING
 				border: none;
 
 				a {
+		      text-shadow: 0 0 10px rgba(0,0,0,0.5);
+				  font-weight: bold;
 					color: white;
 					font-size: .9em;
 					text-decoration: none;
@@ -100,7 +107,9 @@ HEADER STYLING
 
 				&.current {
 					padding-bottom: .25em;
-					border-bottom: 4px solid rgba(255,255,255,.4); 
+					border-bottom: 4px solid $secondary-color; 
+					//rgba(255,255,255,.4); 
+					//GYR
 				}
 			}
 		}
