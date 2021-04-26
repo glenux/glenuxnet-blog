@@ -2,7 +2,7 @@
 version: '3.4'
 
 services:
-  web:
+  jekyll:
     image: glenux-blog:latest
     build:
       context: .
@@ -11,5 +11,9 @@ services:
     command: foreman start
     volumes:
       - .:/app
+      - jekyll_cache:/app/.jekyll-cache/
     ports:
       - "8000:80"
+
+volumes:
+  jekyll_cache: {}
