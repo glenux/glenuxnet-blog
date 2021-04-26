@@ -1,9 +1,10 @@
 ---
 title: blog.glenux.net
-description: Chroniques d'un gnou libre
+description: Chronicles of a free data
 
 exclude:
   - config.rb
+  - docker-compose.yml
 
 plugins:
   - jekyll-paginate
