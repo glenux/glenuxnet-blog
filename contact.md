@@ -14,7 +14,7 @@ published: true
     Email: glenux@glenux.net<br/>
     Twitter: @glenux</p>
   </div>
-  <form action="//formspree.io/glenux@glenux.net" method="POST">
+  <form action="//formspree.io/f/xnqljqnd" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
