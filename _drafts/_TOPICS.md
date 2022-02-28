@@ -66,6 +66,7 @@ Ideas for general interest posts:
 
 How-to
 ------
+
 Tips, tricks, cheat sheets, and tutorials rock. Your readers will be grateful if you can solve a problem for them and/or save them time. Educate others about what you’ve learned, and what you’ve tried that worked. Keep in mind you can also write about what NOT to do. In fact, if you use a catchy “what not to do” title, your how-to might get more reads. Add a list and get double points.
 
 Ideas for how-to posts:
@@ -166,7 +167,6 @@ Ideas for reviews:
 93. Include a review in any recap you do of classes, trainings, conferences.
 94. Review any how-to/tutorial post – and improve on it.
 
-
 Media-related posts
 -------------------
 
@@ -210,11 +210,6 @@ Other examples
 
 http://www.molly-greene.com/101-blog-topic-ideas/
 
-
-
-
-
-
 How To Pick A Topic For Your Authority Site
 picking the right topic is highly criticalThe goal in picking a topic for your authority site is to pick something that you can really help people with.  Ideally you want your topic to be one that has lots of people who really want that kind of help badly.    Some topics will appeal to a large audience who want the information but aren’t really dying to get it.  Then there are some topics where people would absolutely love to have the information, but yet the number of people who want that information is very small.  Here are a couple examples.
 
@@ -238,8 +233,6 @@ Try to come up with a topic idea where you have some specialized knowledge about
 
 Did you know that every single person has some valuable specialized skill or some rare knowledge that would be highly beneficial to other people out there?  You do too. Think about it for a minute.  Isn’t there one thing that you know how to do that your friends or relatives are asking you about all the time?  You bet there is.  If you can’t think of anything, then you’re not thinking hard enough.
 
- 
-
 People Will Trust Your Advice If You Are Knowledgeable About Your Topic And Have Experience
 
 why should people trust youEveryone is an expert on something.  You can usually tell right away whether or not someone really knows what they are talking about.
@@ -254,8 +247,6 @@ Your goal is to find something that you know way more about than the average per
 
 here is a tip When you find a site like eHow or Wikihow or any of those kinds of sites ranking high in Google for a long keyword phrase, those situations are likely to be a great opportunity for building an authority site.
 
- 
-
 What Questions Do Your Friends Ask You About?
 ----------------------------------------------
 
@@ -269,8 +260,6 @@ In this modern era, new parents are often torn with the decision on whether to u
 
 The main thing is to choose something that you really are knowledgeable about or that you find so interesting or that you are so passionate about that you are willing to do deep research into it.  That way it will be much easier to write about it.  You won’t struggle so much to come up with topics.  You can just write an article as if you were talking directly to one other person in a private conversation.
 
- 
-
 What Topics Are Good If You Intend To Monetize With Google Adsense
 ----------------------------------------------
 
@@ -280,14 +269,10 @@ For example:  If you work as a dental hygienist, then it would be a great idea t
 
 You might be able to find an even more specific niche inside there that you could build an entire website around.  A good example would be electric toothbrush reviews.  There are probably enough different electric toothbrushes on the market that you could build an entire website around helping people pick out the absolute best one for them.  Believe it or not, that is the kind of information that people crave and are willing to do research about.   And, because you are a dental hygienist, you would be considered an authoritative expert on the subject.
 
- 
-
 Which Niches Pay The Most With Adsense
 --------------------------------------
 
 some niches pay great and some don'tThe higher paying ads tend to come from the advertisers that stand to make the most profit from a new customer.   Wherever there is big money to be made, there are usually good paying advertisers.  So, things like elective surgeries, legal matters, insurance, mortgages, loans, investing or getting a professional education will usually pay well.
-
- 
 
 Some topics just don’t pay well because of their nature.
 
@@ -299,8 +284,6 @@ avoid the make money online nicheAnother common topic that people love to blog a
 
 Plus this niche is ultra-competitive with lots of heavy hitters in the industry.  You will be competing against people with a lot more experience than you.   There are other much better niches that you should target that have next to zero competition.   Look for those.   Remember, don’t look for topics that you don’t know anything about.  Start your search by thinking about the things you are really knowledgeable about.   Look for the rare niches.
 
- 
-
 What Kind Of Topics Work Best For Authority Sites
 -------------------------------------------------
 
@@ -310,8 +293,6 @@ Think about topics that start with sentences like “How To ………”   or �
 
 Once you have some good ideas, then start doing a little research.  Just go to Google and type those questions into their homepage search box.   Do the search.  See if there are any good sites in the top 3 results that are really giving you top quality information.  In many cases there won’t be.   You might find a bunch of articles about the topic.  Take a closer look though.  Are those articles really giving out the kind of information or advice that people really want on that topic?   If not, then you have just discovered an opportunity.
 
- 
-
 What Do You Do When You Just Can’t Seem To Come Up With A Topic No Matter How Hard You Try?
 -------------------------------------------------
 
@@ -320,4 +301,3 @@ Are you stuck?Let me help you.  If you are totally stuck trying to figure out wh
 If you read the questions in that kit and you still need help, no problem.  Just let me know.  Send me an email – Ted **at** authorityblogstarterkit.com and ask.  Please be sure to put the phrase “I need help picking out a topic for an authority site” in the subject field for the email.
 
 Send your answers for those questions to me in an email.   I can then offer you very specific advice for your situation.  Hope that helps.
-
