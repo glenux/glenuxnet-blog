@@ -22,8 +22,9 @@ paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 paginate: 5
+#pygments
 
 sass:
   sass_dir: assets/scss
