@@ -1,6 +1,10 @@
 ---
 title: blog.glenux.net
-description: Chroniques d'un gnou libre
+description: Chronicles of a free data
+
+exclude:
+  - config.rb
+  - docker-compose.yml
 
 plugins:
   - jekyll-paginate
@@ -18,8 +22,9 @@ paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 paginate: 5
+#pygments
 
 sass:
   sass_dir: assets/scss
