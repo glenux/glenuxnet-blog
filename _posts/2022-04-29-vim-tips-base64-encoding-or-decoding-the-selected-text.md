@@ -15,8 +15,10 @@ vnoremap <leader>64d y:let @"=system('base64 -w 0 --decode', @")<cr>gvP
 vnoremap <leader>64e y:let @"=system('base64 -w 0', @")<cr>gvP
 ```
 
-It is a shortcut to that copies the selected content in the buffer, replace the
-buffer with the encoded or decoded version, then paste the new text inplace.
+This is a shortcut that, when you select a text and press `<leader>64e` or
+`<leader>64d` copies the selected content in the unnamed register `@"`, replace
+the register content with the encoded or decoded text, then paste the new text
+inplace.
 
 ![](../../assets/img/2022-04-29-vim-tips-base64-encoding-or-decoding-the-selected-text.svg)
 
