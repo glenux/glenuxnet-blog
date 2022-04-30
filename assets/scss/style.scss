@@ -56,3 +56,8 @@ li i[data-tag~="FIXME"] {
   }
 }
 
+p img:first-child:last-child {
+  width: 100%;
+  // box-shadow: 0 0 10px rgba(0.5,0.5,0.5,0.75);
+}
+
