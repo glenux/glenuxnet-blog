@@ -10,7 +10,9 @@
 {% for post in posts %}
   <li>
     <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      {% if post.draft %}[draft]{% endif %}
+    </h3>
     <p class="description">
       {% if post.description %}
       {{ post.description}}
