@@ -1,24 +1,30 @@
-{% if paginator.posts.size > 0  %}
-{% assign posts = paginator.posts %}
-<!-- paginator posts -->
-{% else %}
-{% assign posts = archive_posts %}
-<!-- archive posts -->
-{% endif %}
-
 <ul class="posts noList">
-{% for post in posts %}
+{% for post in include.posts %}
+  {% if site.debug %}
+  <pre>
+    post.categories={{ post.categories | jsonify }}
+  </pre>
+  {% endif %}
   <li>
     <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <h3>
+      <a class="post-link" 
+      	 href="{{ post.url | prepend: site.baseurl }}"
+      	 >{{ post.title }}</a>
       {% if post.draft %}[draft]{% endif %}
     </h3>
-    <p class="description">
+    <div class="description">
       {% if post.description %}
       {{ post.description}}
       {% else %}
-      {{ post.content | split: '<!-- more -->' | first }}
+      {{ post.excerpt }}
       {% endif %}
+      {% comment %}
+      {{ post.content | split: '<!-- more -->' | first | rstrip }}
+      {% endcomment %}
+    </div>
+    <p>
+    » <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
     </p>
   </li>
 {% endfor %}

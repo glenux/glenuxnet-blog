@@ -2,14 +2,17 @@
 layout: default
 ---
 <div class="post">
+  {% comment %}
   {% if page.image %}
     <div class="featuredImage">
         <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
       </div>
   {% endif %}
+  {% endcomment %}
   <h1 class="postTitle">{{ page.title }}</h1>
   <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
   {% include social_sharing.html %}
+
   {{ content }}
 
 
@@ -25,6 +28,7 @@ layout: default
   </div>
   {% endif %}
 
+  {% comment %}
   <!-- POST NAVIGATION -->
   <div class="postNav clearfix">
     {% if page.previous.url %} 
@@ -42,4 +46,5 @@ layout: default
       </a>
     {% endif %} 
   </div>
+  {% endcomment %}
 </div>
