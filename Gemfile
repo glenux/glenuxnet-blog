@@ -1,32 +1,37 @@
+# frozen_string_literal: true
+
 # A sample Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
 # Jekyll (content)
-gem "jekyll"
-gem "foreman"
+gem 'foreman'
+gem 'jekyll'
 
-# gem "jekyll-assets"
-gem "jekyll-sitemap"
-gem "jekyll-mentions"
-gem "jekyll-feed"
-gem "jekyll-watch"
-gem "jekyll-paginate"
+# gem 'jekyll-assets'
+gem 'jekyll-compass'
+gem 'jekyll-feed'
+gem 'jekyll-mentions'
+gem 'jekyll-paginate-v2'
+gem 'jekyll-sitemap'
+gem 'jekyll-watch'
 
 # Asset generation
+gem 'compass'
+gem 'kramdown'
+gem 'kramdown-parser-gfm'
+gem 'normalize-scss'
+gem 'susy'
 gem 'webrick'
-gem "kramdown"
-gem "compass"
-gem "susy"
-gem "normalize-scss"
 
 # Plumbing & various tools
-# gem "jekyllpress"
-gem 'jekyll-compose'
+# gem 'jekyllpress'
 gem 'guard'
-gem 'guard-livereload'
 gem 'guard-jekyll-plus'
+gem 'guard-livereload'
+gem 'jekyll-compose'
 
 # Forcing versions
 gem 'hitimes', '~> 1.2.3'
 gem 'thin'
 
+#
