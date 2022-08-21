@@ -24,5 +24,5 @@ This is a shortcut that, when you select a text and press `<leader>64e` or
 the register content with the encoded or decoded text, then paste the new text
 inplace.
 
-![](../../assets/img/2022-04-29-vim-tips-base64-encoding-or-decoding-the-selected-text.svg)
+![]({{ "/assets/img/2022-04-29-vim-tips-base64-encoding-or-decoding-the-selected-text.svg" | relative_url }})
 
