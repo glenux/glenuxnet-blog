@@ -1,0 +1,33 @@
+
+.paginator {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  padding: 10px 0;
+  margin: 0;
+
+  .page {
+    border: 1px solid  $secondary-color;
+    border-radius: 4px;
+    background-color: $secondary-color;
+
+    a { 
+      padding: 0.25em 0.5em;
+      text-decoration: none; 
+      color: white;
+    }
+
+    &.selected {
+      background-color: white;
+      color: $secondary-color;
+
+      a { 
+        text-decoration: none; 
+        color: $secondary-color;
+      }
+    }
+    &:not(:first-child) {
+      margin-left: 10px;
+    }
+  }
+}
