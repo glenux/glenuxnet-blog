@@ -10,13 +10,17 @@ title: Hello
 I'm a CTO and co-founder of various organizations. I'm also a teacher and
 learner.
 
-I love algorithms, infrastructures, networks, security... But I also secretly
-hate technology. I wonder about its evolution in the face of social,
+I'm an engineer and I am obsessed by the study of the rules that govern the
+interaction between the agents of a system for its good (or bad) functioning.
+And when this system is not digital... it includes sociology, religion and
+ethology and anthropology.
+
+I love algorithms, infrastructures, networks, protocols, security... But I also
+secretly hate technology. I wonder about its evolution in the face of social,
 environmental and political issues. Leverage for freedom or for oppression?
 
-I'm an engineer but i'm also obsessed with the study of the rules that govern
-humans systems interaction, that includes sociology, religion and anthropology,
-in a quest to create resilient, contributive and a-centered society.
+I'm in a quest to create resilient, contributive and a-centered society where
+we would value skills and relationships more than careers and money.
 
 This blog is a central place for me to publish my musings on those topics and
 more.
