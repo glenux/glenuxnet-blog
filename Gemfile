@@ -28,7 +28,7 @@ gem 'webrick'
 gem 'guard'
 gem 'guard-jekyll-plus'
 gem 'guard-livereload'
-gem 'jekyll-compose'
+gem 'jekyll-compose', group: [:jekyll_plugins]
 
 # Forcing versions
 gem 'hitimes', '~> 1.2.3'

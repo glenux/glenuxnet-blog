@@ -20,6 +20,7 @@ plugins:
   - jekyll-mentions
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll-compose
 
 url: http://blog.glenux.net
 baseurl: ""
