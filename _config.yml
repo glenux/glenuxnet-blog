@@ -67,6 +67,8 @@ navigation:
     url: /contact/
 
 social:
+  code: https://code.apps.glenux.net
+  microblog: https://mastodon.social/@glenux
   github: glenux
   twitter: glenux
   linkedin: glenux
