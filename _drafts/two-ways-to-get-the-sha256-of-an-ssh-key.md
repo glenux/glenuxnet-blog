@@ -7,19 +7,30 @@ tags:   []
 published: true
 ---
 
-Recently, a company in which I was involved in training did not really have the
-right technical environment to carry out the said training with its employees.
+FIXME: translate
 
-I usually work with virtual machines, or with VPS created on demand and
-accessible via SSH. But there was no virtualization and all destination ports
+FIXME: add diagram for single SSHwifty
+
+FIXME: add diagram for training SSHwifty instances
+
+FIXME: clean up terraform repository
+
+Recently, an organization in which I was conducting training did not really
+have the right technical environment to help me carry out the said training
+with its employees.
+
+I usually provide trainees with virtual machines, or with VPS created on demand
+and accessible via SSH. But there was no virtualization and all network ports
 were blocked. Only HTTPS was left (but filtered).
 
 <!-- more -->
 
 I didn't want to explain to the trainees how to pass an SSH stream via an HTTPS
-proxy, even if it can be done with corkscrew. So I used SSHwifty which is
-specifically designed to provide a terminal and an SSH connection (like the
-venerable Putty), but via the web.
+proxy, even if it can be done with
+[corkscrew](https://github.com/bryanpkc/corkscrew). So I used
+[SSHwifty](https://github.com/nirui/sshwifty) which is specifically designed to
+provide a terminal and an SSH connection, like the venerable
+[Putty](https://www.putty.org/), but via the web.
 
 SSHWifty fonctionne comme une passerelle, qui va donner accès à différentes
 machines. Par défaut on peut tout à fait l'utiliser pour se connecter à des
@@ -29,7 +40,6 @@ machines qui n'ont rien à voir.
 
 Dans mon cas, j'installais un SSHWifty avec une configuration verouillée pour
 chaque utilisateur.
-
 
 
 
