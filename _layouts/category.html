@@ -16,11 +16,23 @@ layout: default
 <!-- POST NAVIGATION -->
 <div class="postNav clearfix">
 	{% if paginator.page_trail %}
+	<ul class="paginator">
+	{% if paginator.previous_page %}
+    <li class="page">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" title="Previous page">&lt;</a>
+    </li>
+    {% endif %}
   	{% for trail in paginator.page_trail %}
-    <li {% if page.url == trail.path %}class="selected"{% endif %}>
+    <li class="page {% if page.url == trail.path %}selected{% endif %}">
         <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
     </li>
   	{% endfor %}
+	{% if paginator.next_page %}
+    <li class="page">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" title="Next page">&gt;</a>
+    </li>
+    {% endif %}
+	</ul>
 	{% endif %}
 </div>
 
