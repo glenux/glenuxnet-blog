@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /about/
-published: false
+published: true
 ---
 
 ## About Glenn ROLLAND

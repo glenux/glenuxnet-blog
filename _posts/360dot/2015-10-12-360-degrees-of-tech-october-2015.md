@@ -3,8 +3,8 @@ published: true
 title: 360° of Tech - October 2015
 layout: post
 tags: [overview, technology, business, vpn, microservice]
-categories:
-  - 360° of Tech
+categories: [360dot]
+
 ---
 
 Hi folks! In this issue, we continue to explore the topic of micro-services management, and we begin talking about mesh VPN, which is one of our current needs at [netcat\_](http://netcat.io).

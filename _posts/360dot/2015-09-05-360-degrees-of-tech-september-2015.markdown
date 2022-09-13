@@ -3,8 +3,8 @@ published: true
 title: 360° of Tech - September 2015
 layout: post
 tags: [overview, technology, business]
-categories:
-  - 360° of Tech
+categories: [360dot]
+
 ---
 
 I'm proud to announce the first issue of 360° of Tech, a monthly round-up of the most inspiring articles & links I've read. 
@@ -15,8 +15,7 @@ The structure of this reading list is inspired by the excellent [Geek Reading](h
 
 Stay tuned for the next issue. Until then, all comments and inspiring links are welcome!
 
-Startups, Career and Process
-----------------------------
+## Startups, Career and Process
 
 * [What does a CTO do?](http://code.dblock.org/2015/05/23/what-does-a-cto-do.html) | DBlock
   <i data-tag="value strategy scope impact detail"></i>
@@ -30,8 +29,7 @@ Startups, Career and Process
   <i data-tag="pervasive technology startup artificial-intelligence opinion"></i>
 
 
-Design and Web Development
---------------------------
+## Design and Web Development
 
 ### Code performance
 
@@ -80,8 +78,7 @@ Design and Web Development
   <i data-tag="design form css tutorial"></i>
 
 
-AI, Machine Learning, Research and Advanced Algorithms
-------------------------------------------------------
+## AI, Machine Learning, Research and Advanced Algorithms
 
 * [Statistical Patterns in Movie Rating Behavior](
   http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136083)

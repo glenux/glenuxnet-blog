@@ -10,9 +10,10 @@ published: true
   <div class="contactContent">
     <p><b>Glenn Y. Rolland</b></p>
     <p>
-    Tel: +33 (0) 6 739 839 56<br/>
-    Email: glenux@glenux.net<br/>
-    Twitter: @glenux</p>
+        Tel: +33 (0) 6 739 839 56<br/>
+        Email: glenux@glenux.net<br/>
+        Twitter: @glenux
+    </p>
   </div>
   <form action="//formspree.io/f/xnqljqnd" method="POST">
     <label for="name">Name</label>    

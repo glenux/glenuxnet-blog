@@ -13,7 +13,7 @@ services:
       - .:/app
       - jekyll_cache:/app/.jekyll-cache/
     ports:
-      - "127.0.0.1:8000:80"
+      - "127.0.0.1:8000:8000"
 
 volumes:
   jekyll_cache: {}

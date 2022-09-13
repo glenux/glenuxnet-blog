@@ -2,29 +2,55 @@
 title: blog.glenux.net
 description: Chronicles of a free data
 
+debug: false
+excerpt_separator: "<!-- more -->"
+
 exclude:
   - config.rb
   - docker-compose.yml
+  - assets/scss
+  - Gemfile
+  - Gemfile.lock
+  - Procfile
+  - Guardfile
 
 plugins:
-  - jekyll-paginate
-
-gems:
-  - jekyll-paginate
-  - jekyll-mentions
-  - jekyll-sitemap
-  - jekyll-feed
   - jekyll-compass
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-compose
 
 url: http://blog.glenux.net
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-paginate: 5
-#pygments
+
+# Pagination Settings
+autopages:
+  enabled: false
+# autopages:
+#   layouts:
+#     - 'category.html'
+#   enabled: true
+#   permalink: /tag/:tag
+
+pagination:
+  enabled: true
+  # collection: all
+  debug: true
+  per_page: 2
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
 
 sass:
   sass_dir: assets/scss
@@ -32,12 +58,18 @@ sass:
 navigation:
   - title: Home
     url: /
-  - title: 360° of Tech
-    url: /category/360-degrees-of-tech/
+  - title: Blog
+    url: /blog/
+# - title: 360° of Tech
+#   url: /360-degrees-of-tech/
+# - title: Talks
+#   url: /talks/
   - title: Contact
     url: /contact/
 
 social:
+  code: https://code.apps.glenux.net
+  microblog: https://mastodon.social/@glenux
   github: glenux
   twitter: glenux
   linkedin: glenux

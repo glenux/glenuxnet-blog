@@ -1,0 +1,4 @@
+---
+services:
+  jekyll:
+    command: sh -c "JEKYLL_FLAGS='--drafts' foreman start"
