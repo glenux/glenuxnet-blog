@@ -3,7 +3,7 @@ layout: post
 title: 'vim tips: base64 encoding or decoding the selected text'
 date: 2022-04-29 17:06 +0200
 categories: [blog]
-
+published: true
 ---
 
 I've been writing a lot of these huge Kubernetes YAML files lately. Here's a
