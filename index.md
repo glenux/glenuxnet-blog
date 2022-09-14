@@ -12,8 +12,8 @@ learner.
 
 As an engineer I am obsessed by the study of the rules that govern the
 interaction between the agents of a system for its good (or bad) functioning.
-And when this system is not digital... it includes sociology, religion and
-ethology and anthropology.
+And when this system is not digital... it can extend to sociology, ethnology
+and anthropology.
 
 I love algorithms, infrastructures, networks, protocols, security... But I also
 secretly hate technology. I wonder about its evolution in the face of social,
