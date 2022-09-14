@@ -10,7 +10,7 @@ title: Hello
 I'm a CTO and co-founder of various organizations. I'm also a teacher and
 learner.
 
-I'm an engineer and I am obsessed by the study of the rules that govern the
+As an engineer I am obsessed by the study of the rules that govern the
 interaction between the agents of a system for its good (or bad) functioning.
 And when this system is not digital... it includes sociology, religion and
 ethology and anthropology.

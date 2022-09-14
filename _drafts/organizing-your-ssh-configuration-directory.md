@@ -1,64 +1,78 @@
 ---
 layout: post
-title: Mieux organiser votre dossier de configuration SSH
+title: A successful SSH configuration model
 ---
 
-Avec le temps, j'ai accumulé des clés SSH et de la configuration pour de
-nombreux projets, services et serveurs.
+Well, I've been using Unix systems and playing with networks for almost 25 years. Since I abandoned the venerable _rsh_ and _telnet_ in favor of SSH, I've gradually accumulated keys and configuration to access many projects, services and servers.
 
-Au début je stockais toutes les clefs directement dans le dossier `~/.ssh/` et
-toute la configuration dans `~/.ssh/config`, mais évidemment ça n'a pas tenu
-bien longtemps.  Il fallait maintenir la configuration propre, éviter le risque
-de tout perdre en cas de fausse manipulation, et puis surtout retrouver quelle
-clef correspondait à quoi : quel serveur ? en quelle année ? faut-il encore
-l'utiliser ? etc.
+At first I stored all the keys directly in the `~/.ssh/` folder and all the configuration in `~/.ssh/config`, but obviously this didn't last very long. With the profusion of keys and configurations, many recurring questions started to bother me.
 
-Alors certes, il est [très fortement recommandé d'utiliser des certificats
-SSH](https://smallstep.com/blog/use-ssh-certificates/) plutôt que des clefs SSH
-pour ne plus se poser ces questions. Cependant même en faisant les choses
-correctement chez vous, vous aurez quand même souvent besoin de bêtes clefs
-asymétriques car la majorité des services en ligne n'acceptent pas le systeme
-de certificats SSH. Donc il faut gérer tout ces clefs. 
+It started with the keys. Which key corresponded to what? For which server? For which user? At what time? Should we still use this key? Is it not obsolete? etc.
 
-J'ai eu plusieurs stratégie de rangement, évidemment, mais dont je vous avoue
-que je ne me souviens plus trop les détails. Cependant elles ont chacune
-atteint leur limite. 
+And then on the configuration side too! How to keep the configuration "clean"? How to avoid duplicate configurations? How to avoid the risk of losing everything in case of wrong manipulation?
 
-J'en suis arrivé à la structure suivante, qui est celle que j'utilise
-actuellement, pour le dossier `~/.ssh/`:
+Of course, [it is very strongly recommended to use SSH certificates](https://smallstep.com/blog/use-ssh-certificates/) rather than SSH keys to avoid most of these questions. However, even if you do things correctly on the information system you manage, you will often need silly asymmetric keys because the majority of online services do not accept SSH certificates at the moment, so you have to manage and organize all these files.
+
+#### Divide and conquer
+
+After many unsuccessful attempts, I arrived at the following structure for the contents of the `~/.ssh/` folder:
+
+* *One `keyring.XXXX` folder per topic*, per online service or per organization, which is stored in `~/.ssh`.
+  
+  * Ex: `.ssh/keyring.mycompany`
+
+* * Ex: `.ssh/keyring.myclient`
+  
+  * Ex: `.ssh/keyring.gitlab`
+  
+  * Ex: `.ssh/keyring.vagrant`
+
+* The key pairs of a topic, service or organization are stored in the folder named after it.
+  
+  * Ex: `~/.ssh/keyring.mycompany/key` et `~/.ssh/keyring.mycompany/key.pub`.
+
+* The key pairs of a topic, service or organization are stored in the folder named after it :
+  
+  * Ex: `~/.ssh/keyring.mycompany/config`.
+
+
+
+Here's the big picture:
 
 ```
 ~/.ssh/
-  |- keyring.organization-a/
+  |- keyring.mycompany/
   |    |- key1
   |    |- key1.pub
   |    |- key2
   |    |- key2.pub
   |    |- ...
   |    `- config
-  |- keyring.organization-b/
+  |- keyring.myclient/
   |    |- key3
   |    |- key3.pub
-  |    |- key4
-  |    |- key4.pub
   |    |- ...
   |    `- config
-  |- keyring.organizationC/
+  |- keyring.gitlab/
   |    |- ...
   |    `- config
+  |- ...
   |- authorized_keys
   |- known_hosts
   `- config
 ```
 
-#### Bien nommer ses clefs pour les retrouver
+I'm tempted to tell you that it all works pretty well, but that probably wouldn't be enough. So let me explain why and how it works. 
 
-Evidemment, je n'appelle pas mes clefs `key1` ou  `key2`. J'utilise un _schéma
-de nommage_, c'est à dire une structure sémantique invariable pour nommer
-mes clefs SSH. 
+#### Name your keys to find them
 
-J'utilise la structure suivante: 
-`SrcUser@SrcHost,Action,DstUser@DstHost,Details,Cypher`.
+Obviously, I don't call my keys `key1` or `key2`. I use a _naming scheme_, i.e. an invariable and semantically representative pattern, to name my SSH keys depending on their purpose.
+
+I use the following structure:
+
+```
+SrcUser@SrcHost,Action,DstUser@DstHost,Details,Cypher
+```
 
 Voyons le contenu de chacun des morceaux:
 
@@ -73,16 +87,12 @@ Voyons le contenu de chacun des morceaux:
 Si j'assemble les éléments donnés en exemple, ça donnerait:
 `jsnow@winterfell,git,jonny@github.com,nopass.2022,rsa`
 
-Quand je génère les clefs (avec `ssh-keygen`), j'utilise en commentaire (option
-`-C`) cette même structure, ce qui permet de s'y retrouver facilement 
-quand on lit un fichier `authorized_keys` par exemple.
-
+Quand je génère les clefs (avec `ssh-keygen`), j'utilise en commentaire (option `-C`) cette même structure, ce qui permet de s'y retrouver facilement quand on lit un fichier `authorized_keys` par exemple.
 
 #### Plusieurs fichiers de configuration
 
 Ca évite de mélancher tout les morceaux de configuration
-ou bien d'écraser le fichier complet par inadvertance
-ou bien d'avoir une entrée en double pour la configuration d'un serveur (évidemment, quand ça arrive, on ne comprend pas pourquoi ça ne marche pas comme prévu).
+ou bien d'écraser le fichier complet par inadvertance ou bien d'avoir une entrée en double pour la configuration d'un serveur (évidemment, quand ça arrive, on ne comprend pas pourquoi ça ne marche pas comme prévu).
 
 Voici le contenu complet du fichier `.ssh/config` (oui c'est tout):
 
@@ -90,8 +100,7 @@ Voici le contenu complet du fichier `.ssh/config` (oui c'est tout):
 Include keyring.*/config
 ```
 
-Voici le contenu de `.ssh/keyring.got/config` (fichier de configuration pour
-l'organisation GOT):
+Voici le contenu de `.ssh/keyring.got/config` (fichier de configuration pour l'organisation GOT):
 
 ```
 Host github.com
@@ -100,8 +109,17 @@ Host github.com
     IdentityFile ~/.ssh/keyring.got/jsnow@winterfell_gitpush_jonny@github_pass_ed25519
 ```
 
+Autre avantage, quand j'utilise des outils qui écrivent un bout de fichier de configuration, je n'ai plus peur de faire :
 
+```shell-session
+$ vagrant ssh-config > ~/.ssh/keyring.vagrant/config,
+```
 
+## Et vous ?
+
+* Quelles sont vos stratégies pour gérer vos clefs ?
+
+* Comment organisez vous votre configuration SSH ?
 
 ## Références
 

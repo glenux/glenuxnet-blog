@@ -5,6 +5,7 @@
 - [NetVirt : Solution de réseautique virtuel](http://linuxfr.org/users/nib/journaux/netvirt-solution-de-reseautique-virtuel)
 
 Axes d'analyse :
+
 - Rappel sur l'évolution des technos 24 derniers mois
 - facilité de virtualiser des machine, et des réseau complets 
 - de plus en plus de technologies pour cela => toujours une solution adaptée
@@ -15,7 +16,7 @@ Axes d'analyse :
 - on peut réaliser de intégration continue (CI) sur des infra comme sur du logiciel
 
 Conclusion / L'analyse netcat_ (?)
-    
+
 - reproductibilité => cela va vers l'amélioration globale la qualité des SI
 - infra "commodité" => on
 - haute disponibilité ou haute INdisponibilité ?

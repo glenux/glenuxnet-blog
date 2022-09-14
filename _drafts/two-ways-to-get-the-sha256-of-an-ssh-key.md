@@ -41,8 +41,6 @@ machines qui n'ont rien à voir.
 Dans mon cas, j'installais un SSHWifty avec une configuration verouillée pour
 chaque utilisateur.
 
-
-
 SSHWifty demande évidemment de vérifier la clef ssh
 
 Two ways to get the sha256 of an SSH key
@@ -57,4 +55,3 @@ See <https://fr.wikipedia.org/wiki/Enregistrement_DNS_SSHFP> for details
 or from keyscap + keygen reformating
 
     $ ssh-keyscan -t rsa HOSTNAME | ssh-keygen -l -E sha256 -f - | cut -f2 -d' '
-
