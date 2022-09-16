@@ -56,3 +56,9 @@ TYPE SETTINGS
 
 $sans-serif: "Open Sans", Helvetica, Arial, sans-serif;
 $serif: "PT Serif", Georgia, Times, serif;
+
+$fontSizeNormal: 18px;
+$fontSizeSmall: $fontSizeNormal / 1.20;
+$fontSizeBig: $fontSizeNormal * 1.20;
+$fontSizeHuge: $fontSizeNormal * 1.20 * 1.20;
+

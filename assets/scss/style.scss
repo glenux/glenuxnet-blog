@@ -22,24 +22,33 @@
 @import "partials/grid";
 
 // Mobile up base styles
-@import "breakpoints/mobileup";
+@import "breakpoints/375up";
 
 // Import media queries add more as you desire
-@media only screen and (min-width: 800px) { @import "breakpoints/800up";} 
+@media only screen and (min-width: 800px) { 
+  @import "breakpoints/800up";
+} 
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
 
 a.read-more {
-  border: 4px solid $primary-color;
-  padding: 0.25em 0.5em;
+  background-color: #333; //$primary-color;
   border-radius: 4px;
-  color: $primary-color;
-  text-decoration: none;
+  color: white;
   display: inline-block;
-  margin: 0 auto;
+  padding: 0.15em 0.5em;
+  margin-left: 50%;
   text-align: center;
-  // margin-left: 50%;
-  transform: translate(0%,-25%);
+  text-decoration: none;
+  transform: translate(-50%,-50%);
+
+  &.read-more--inline {
+    position: relative;
+    display: inline-block;
+    font-size: 80%;
+    margin: 0 0 0 0.5em;
+    transform: translate(0%,0%);
+  }
 }
 
 li i[data-tag~="FIXME"] {
