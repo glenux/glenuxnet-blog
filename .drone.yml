@@ -1,0 +1,19 @@
+---
+kind: pipeline
+type: docker
+name: default
+
+steps:
+  - name: Dokku
+    image: debian:11
+    volumes:
+      - name: cache
+        path: /stupid
+    commands:
+      - git remote add dokku dokku@deckard.infra.glenux.net:glenux-blog
+      - git push dokku master
+
+volumes:
+  - name: cache
+    temp: {}
+#
