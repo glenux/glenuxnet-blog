@@ -17,7 +17,8 @@
       {% if post.description %}
       {{ post.description | markdownify }}
       {% else %}
-      {% assign readmore_html = "<a href='{{ post.url | prepend: site.baseurl }}' class='read-more read-more--inline'>Read more</a>" %}
+	  {% assign readmore_url = post.url | prepend: site.baseurl %}
+      {% assign readmore_html = "<a href='" | append: readmore_url | append: "' class='read-more read-more--inline'>Read more</a>" %}
       {{ post.excerpt 
          | strip_html 
          | rstrip 
