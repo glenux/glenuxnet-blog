@@ -15,17 +15,17 @@
     </h3>
     <div class="description">
       {% if post.description %}
-      {{ post.description}}
+      {{ post.description | markdownify }}
       {% else %}
-      {{ post.excerpt }}
+	  {% assign readmore_url = post.url | prepend: site.baseurl %}
+      {% assign readmore_html = "<a href='" | append: readmore_url | append: "' class='read-more read-more--inline'>Read more</a>" %}
+      {{ post.excerpt 
+         | strip_html 
+         | rstrip 
+         | append: readmore_html
+         | markdownify }}
       {% endif %}
-      {% comment %}
-      {{ post.content | split: '<!-- more -->' | first | rstrip }}
-      {% endcomment %}
     </div>
-    <p>
-    <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read more</a>
-    </p>
   </li>
 {% endfor %}
 </ul>

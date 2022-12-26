@@ -19,7 +19,6 @@ Cet abandon des projets peut être expliqué l'absence de business-modèle à le
 
 FIXME: compter mon nombre de projets "draft", et nombre de projets "plein", et nombre de projets "terminés".
 
-
 ## Références
 
 [Why developers never finish their projects](https://medium.com/things-developers-care-about/why-developers-never-finish-their-projects-bf39d3424114)
